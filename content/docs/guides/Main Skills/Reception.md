@@ -255,4 +255,4 @@ With all of this said thus far, I’d like to conclude with three points:
 
 
 ## Credits
-Created by @Selena and @kyouki
+Created by @Selena and @psy
