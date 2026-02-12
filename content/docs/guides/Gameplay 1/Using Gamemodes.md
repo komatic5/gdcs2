@@ -185,7 +185,7 @@ Here’s an example Cube part I made that uses orbs and  the Cube’s natural pr
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1HYyehxc6y0xKwCo0QW-ygAaD9HLNKPjG/preview?usp=drivesdk></iframe></div>
 
 ## Ship
-Ship parts can have a free-flowing nature, but you can still make this really interesting. Don’t *always*have the player idly float, and give them something to do. For example, have the player go up when the song’s melody or volume rises, or vice versa. As a gamemode with air control, structuring is really important for players to understand your gameplay, so try to keep things at least somewhat understandable.
+Ship parts can have a free-flowing nature, but you can still make this really interesting. Don’t *always* have the player idly float, and give them something to do. For example, have the player go up when the song’s melody or volume rises, or vice versa. As a gamemode with air control, structuring is really important for players to understand your gameplay, so try to keep things at least somewhat understandable.
 The Ship can also feel snappier using orbs as well. There are a lot of unique interactions with orbs because the Ship takes into account hold inputs at all times.
 - Blue orbs act as a small burst of momentum when holding
 - Black orbs bounce the player if they touch a platform
