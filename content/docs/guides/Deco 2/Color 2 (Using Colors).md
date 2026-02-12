@@ -1,5 +1,5 @@
 ---
-title: Color 2_ Using Colors
+title: Color 2 (Using Colors)
 weight: 824
 draft: true
 ---

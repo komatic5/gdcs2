@@ -1,5 +1,5 @@
 ---
-title: Color 3_ Color Schemes
+title: Color 3 (Color Schemes)
 weight: 824
 draft: true
 ---

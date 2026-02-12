@@ -1,5 +1,5 @@
 ---
-title: Perspective 3_ Using Planes
+title: Perspective 3 (Using Planes)
 weight: 824
 draft: true
 ---

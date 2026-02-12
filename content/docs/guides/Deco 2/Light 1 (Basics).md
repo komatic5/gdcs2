@@ -1,5 +1,5 @@
 ---
-title: Light 1_ Basics
+title: Light 1 (Basics)
 weight: 824
 draft: true
 ---

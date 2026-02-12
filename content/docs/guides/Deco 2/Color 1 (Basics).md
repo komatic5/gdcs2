@@ -1,5 +1,5 @@
 ---
-title: Color 1_ Basics
+title: Color 1 (Basics)
 weight: 824
 draft: true
 ---

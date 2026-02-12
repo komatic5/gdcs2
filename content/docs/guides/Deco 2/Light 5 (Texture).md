@@ -1,5 +1,5 @@
 ---
-title: Light 5_ Texture
+title: Light 5 (Texture)
 weight: 824
 draft: true
 ---

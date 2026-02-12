@@ -1,5 +1,5 @@
 ---
-title: Color 4_ Color Grading
+title: Color 4 (Color Grading)
 weight: 824
 draft: true
 ---

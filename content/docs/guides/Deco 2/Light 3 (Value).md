@@ -1,5 +1,5 @@
 ---
-title: Light 3_ Value
+title: Light 3 (Value)
 weight: 824
 draft: true
 ---

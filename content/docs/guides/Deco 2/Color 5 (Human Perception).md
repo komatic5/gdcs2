@@ -1,5 +1,5 @@
 ---
-title: Color 5_ Human Perception
+title: Color 5 (Human Perception)
 weight: 824
 draft: true
 ---

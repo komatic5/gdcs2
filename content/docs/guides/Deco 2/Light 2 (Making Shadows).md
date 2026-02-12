@@ -1,5 +1,5 @@
 ---
-title: Light 2_ Making Shadows
+title: Light 2 (Making Shadows)
 weight: 824
 draft: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: Perspective 1_ Basics
+title: Perspective 1 (Basics)
 weight: 824
 draft: true
 ---
