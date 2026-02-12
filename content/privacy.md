@@ -3,7 +3,7 @@ title: "Privacy Policy"
 description: ""
 summary: ""
 date: 2023-09-07T17:19:07+02:00
-lastmod: 2023-09-07T17:19:07+02:00
+lastmod: 2026-02-11T17:19:07+02:00
 draft: false
 type: "legal"
 seo:
@@ -12,3 +12,4 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+We don't collect any data on you. That's about it.
