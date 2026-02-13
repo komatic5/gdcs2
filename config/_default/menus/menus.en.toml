@@ -45,11 +45,6 @@
   url = "/privacy/"
   weight = 10
 
-[[footer]]
-  name = "Edit this page"
-  url = '{{ partial "repo-link.html" (dict "action" "edit" "page" .) }}'
-  weight = 10
-
 # [[footer]]
 #   name = "Terms of Service"
 #   url = "/terms/"

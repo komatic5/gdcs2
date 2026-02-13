@@ -1,10 +1,2 @@
 # Overrides for production environment
 baseurl = "gdcreatorschool.com/"
-
-[params.repository]
-branch = 'main'
-owner = 'komatic5'
-repo = 'gdcs2'
-service = 'GitHub'
-urlPatternEdit = 'https://github.com/%s/%s/edit/%s/%s'
-urlPatternView = 'https://github.com/%s/%s/blob/%s/%s'
