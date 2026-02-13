@@ -3,16 +3,16 @@ title: Fairness
 weight: 709
 draft: false
 ---
-## Guide info
-Short: 3-5 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (3-5 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Fairness in a level happens when it can teach the player about its mechanics, since players perceive fairness differently, it is a complex topic to approach. Using different techniques can help with making the gameplay fair.
 - Keeping players in the flow state for as long as possible and progressing the level further encourages them to keep playing.
 - While fairness is a good concept to use when building, it can become a hindrance: the difficulty of the level will decrease and the player will have less opportunities to click.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: What is Fairness?
 
 In general, a level can be considered **fair** if __it can clearly train the player about its rules and mechanics__. If a player dies in a level, do they blame themselves or the level? Fairness is a complex topic to approach as others can have a different opinion on what is considered fair. Things such as keeping the gameplay fair for everyone is difficult to do, as your skillset and creating bias can affect this greatly. 
@@ -41,7 +41,7 @@ Though fairness might make levels more enjoyable, there can be drawbacks. Giving
 
 Overall, fairness is difficult to keep at a balance. You want to make an enjoyable level most people will have a good time with. However, you don’t want to lose sight of what your level should be.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kVZojmhE_-g" frameborder="0" allowfullscreen></iframe>
+{{< youtube kVZojmhE_-g >}}
 
 
 

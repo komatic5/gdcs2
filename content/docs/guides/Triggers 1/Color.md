@@ -3,14 +3,14 @@ title: Color
 weight: 302
 draft: false
 ---
-## Guide info
-Tiny: 0-2 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (0-2 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Color Trigger changes the color of objects.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Features
 
 The main Color trigger UI is the same as a color channel’s one. You have the circular wheel where you can select a color’s hue and how saturated/bright it is, and you can use Copy Color to copy and adjust the color from another color channel.

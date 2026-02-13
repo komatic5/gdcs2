@@ -3,10 +3,9 @@ title: Light 2 (Making Shadows)
 weight: 807
 draft: false
 ---
-## Guide info
-Medium: 11-13 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (11-13 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Shadow constructions are essential for determining where light shines and is obscured, primarily in 3D scenarios. The most basic construction involves casting line shadows from a light source onto a "stick" to create a "light plane".
 - When casting shadows onto obstacles, identify where the light plane intersects the obstacle and extend a new "light stick" from that intersection to define the shadow's extent.
 - The approach used for shadow constructions varies depending on if the form is simple, complex, or an X-Y-Z form.
@@ -14,8 +13,9 @@ Medium: 11-13 minutes
 - Direct light creates highlights, where light reflects from a form directly to the eye, and center light which receives the most direct light.
 - Reflected light, where photons bounce off surfaces, reduces shadow intensity and contributes to softer shadows and ambient occlusion.
 
-** **
+{{< /callout >}}
 
+** **
 Shadow constructions are a crucial part of understanding light. After all, they let you accurately determine where light shines and where it’s blocked, without relying on guesswork. This guide will explain the main principles behind constructing shadows in Geometry Dash.
 
 **Note:** This guide applies to both 2D and 3D creations, but the skill ceiling for shadows is significantly higher in 3D scenarios. As such, it’s highly recommended that you familiarize yourself with advanced perspective techniques (at least up to Perspective 4).

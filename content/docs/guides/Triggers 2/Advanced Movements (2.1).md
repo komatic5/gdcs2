@@ -3,15 +3,15 @@ title: Advanced Movements (2.1)
 weight: 621
 draft: true
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Many trigger setups let you use movements in unique and interesting ways.
 - Target Tracking, Movement Tracing, and Vector Rotation are three such ways to use movements in more interesting ways than the normal Move trigger can provide.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Movement Tracing
 
 Movement tracing is useful to create complex or precise shapes, primarily for decoration. The best way to make these complex shapes is to plot out points which you can connect using various objects, and move triggers are the easiest method of accurately creating these shapes. 
@@ -51,7 +51,7 @@ This method costs two groups to [produce](https://cdn.discordapp.com/attachments
 
 This method lets you rotate vectors by using Rotate triggers. It is not useful for conventional uses, but it does allow you to translate a player’s Y-axis movement into horizontal movement on the X axis. This only costs 5 groups and leads to some interesting gameplay gimmicks, like what I did here.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3csPWAJ7cRM" frameborder="0" allowfullscreen></iframe>
+{{< youtube 3csPWAJ7cRM >}}
 
 1. Set up your first movement. Then, set up a follow trigger that reflects this movement in the opposite direction – it should have X and Y mods of -1.
 2. Use two rotate triggers to target the same object (see the Stacking guide to understand how this works). Make their rotation values 60 and -60 degrees respectively, and make their easings identical to your first Move trigger’s. Your object will now move perpendicular to your original movement.

@@ -3,15 +3,15 @@ title: Making Vectors
 weight: 612
 draft: false
 ---
-## Guide info
-Short: 9-11 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (9-11 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Using vectors and mathematics, we can move points in more ways than what the game typically provides.
 - Follow Triggers can be used to represent the values of vectors, but you can also use Item IDs if you need vectors for other uses.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Vectors
 
 In mathematics, a **vector** is defined by __a length and a direction__, but can be seen as an offset of position. A vector can also be expressed using X and Y as coordinates, where X is the horizontal offset and Y the vertical one. This is because a point is similar to a vector. If you take the origin point which has the coordinates (0, 0), you can think of any point as a translation or offset to that point from the origin.

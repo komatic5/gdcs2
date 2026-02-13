@@ -3,16 +3,16 @@ title: Keyframes
 weight: 311
 draft: false
 ---
-## Guide info
-Short: 7-9 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (7-9 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Keyframe system can be used to create advanced animations. A keyframe animation is composed of linked and ordered keyframes.
 - Each keyframe holds information concerning position, rotation, scale, and transition duration.
 - The keyframe animation trigger applies an animation to a groupID, the second page allows to set modifiers for general properties of the used animation.
 
-** **
+{{< /callout >}}
 
+** **
 Keyframes define an object’s starting and ending positions in an animation, the object will transition smoothly from one keyframe to the other by gradually changing some of its properties to match those of the second keyframe.
 
 In Geometry Dash, **keyframes** transform 3 properties: Movement, Rotation and Scale, therefore, the keyframe system functions like the move, rotate and scale triggers combined.

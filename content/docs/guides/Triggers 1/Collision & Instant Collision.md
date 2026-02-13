@@ -3,17 +3,17 @@ title: Collision & Instant Collision
 weight: 337
 draft: false
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Collision Triggers activate when two Collision Blocks touch. This makes them simulate hitboxes well.
 - You have to use at least one Dynamic Block so collision triggers can detect the blocks.
 - Instant Collision Triggers detect whether two Collision Blocks are touching at a certain moment.
 - State Blocks detect players entering or exiting a certain area and can activate different groups accordingly.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Collision Trigger
 
 If you know how hitboxes work in games, you’ll know that things only occur when one item’s hitbox touches another’s. You’ll only die in a level when your icon’s hitbox touches the hitbox of a spike, for example.

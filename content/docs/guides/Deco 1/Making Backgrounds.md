@@ -1,16 +1,16 @@
 ---
 title: Making Backgrounds
-weight: 516
+weight: 508
 draft: false
 ---
-## Guide info
-Short: 7-9 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (7-9 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- Backgrounds should express a slightly different interpretation of your main ideas compared to the blocks.
+- When making your background, make sure that it contrasts from the blocks in terms of details and colors. This will help keep the level’s gameplay readable.
+- Finally, you can use multiple layers in your background, and an effect called Parallax, to make your level feel like it’s a 3D space. To complement this, you can create depth by having a lot of varying shape sizes and using overlap.
 
-- **Summary**
-- > • Backgrounds should express a slightly different interpretation of your main ideas compared to the blocks.
-- > • When making your background, make sure that it contrasts from the blocks in terms of details and colors. This will help keep the level’s gameplay readable.
-- > • Finally, you can use multiple layers in your background, and an effect called Parallax, to make your level feel like it’s a 3D space. To complement this, you can create depth by having a lot of varying shape sizes and using overlap.
+{{< /callout >}}
 
 ** **
 

@@ -3,19 +3,19 @@ title: Making Slow Gameplay
 weight: 417
 draft: false
 ---
-## Guide info
-Short: 3-5 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (3-5 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
-- **Summary**
 - Slow speed gameplay is usually at 0.5x or 1x speed (sometimes 2x depending on the context). Good slow gameplay takes advantage of the fact that the player can see what’s coming.
 - Slow gameplay gives you more opportunities to play around with gameplay and make more complex, less readable parts. Complex gameplay can use a variety of techniques to keep the player engaged and on their toes:
 - Slopes
 - Fake orbs, pads, and portals
 - Gamemode switches
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Why Slow Gameplay Matters
 
 Generally, slow gameplay makes the player go at 0.5x or 1x speed, but it can include 2x speed depending on the surrounding gameplay. For instance, 2x speed will feel slow coming out of a 4x speed section. In contrast, 2x speed will feel fast when transitioning from 0.5x speed. 
@@ -46,15 +46,15 @@ Besides this, here are some other examples of slow gameplay.
 
 One good example of slow gameplay is `ISO` by `Mzero` and `Xzer`  at 89 seconds. The slow part here uses a variety of moving objects that fade in and out to keep the player on their toes. There’s enough happening to eliminate the “boring” aspect of slow gameplay.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EBh8YLYSFcA" frameborder="0" allowfullscreen></iframe>
+{{< youtube EBh8YLYSFcA >}}
 
 Another good example is the beginning part of `Soft Melody` by `Zoroa` . The toggle orb gimmick used is very easy to grasp, yet it adds a layer of complexity without adding much difficulty. The usage of minimal clicks in this part allows the player to focus on other aspects of the level, without drawing too much attention to keeping their icon alive.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PjvF_x5nA-Y" frameborder="0" allowfullscreen></iframe>
+{{< youtube PjvF_x5nA-Y >}}
 
 One last example of slow gameplay is `Gloom` by `Optical` . The gameplay here includes a couple of fake portals, along with well placed black glow, forcing the player to think about the gameplay a little more.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GqhQ0Uq1s4Y" frameborder="0" allowfullscreen></iframe>
+{{< youtube GqhQ0Uq1s4Y >}}
 
 
 

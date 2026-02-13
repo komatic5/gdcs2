@@ -1,10 +1,9 @@
 ---
 title: Blending Masks
-weight: 824
-draft: true
+weight: 516
+draft: false
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
 # 1: How Blending Works
 
@@ -173,7 +172,7 @@ It's important the blending colors are semi-transparent, because if they were fu
 
 - Concept Video by Spu7nix
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EyctAc5fsqw" frameborder="0" allowfullscreen></iframe>
+{{< youtube EyctAc5fsqw >}}
 
 ## Summary
 

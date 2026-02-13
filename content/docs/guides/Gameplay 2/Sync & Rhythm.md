@@ -3,18 +3,17 @@ title: Sync & Rhythm
 weight: 708
 draft: false
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- Sync is making two different aspects of your level happen at the same time
+- Choosing player movements to match the song is an important part of sync
+- Rhythm is creating patterns in your gameplay through click patterns
+- By combining sync and rhythm, you can help the player enter a flow state
 
-- **Summary**
-- > • Sync is making two different aspects of your level happen at the same time
-- > • Choosing player movements to match the song is an important part of sync
-- > • Rhythm is creating patterns in your gameplay through click patterns
-- > • By combining sync and rhythm, you can help the player enter a flow state
+{{< /callout >}}
 
 ** **
-
 **1: Impact**
 
 Different levels of sync exist which can be classified by how much impact they have on the player.
@@ -60,7 +59,7 @@ This is incredibly important for flow because rhythm naturally creates the patte
 
 **Rebix’s** part in `Overthinker`  is a good example of this sort of rhythm. The part itself has many elements - such as the first three orb clicks, or the ball parts with slopes in them - that repeat in conjunction with the music. Note that most of the time, what’s repeating is the *click pattern* itself, not necessarily the visuals; this helps make the part less repetitive, something that also matters for the flow state.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/98gHB1WYXas" frameborder="0" allowfullscreen></iframe>
+{{< youtube 98gHB1WYXas >}}
 
 Keep in mind that with rhythm, the impact it’ll have will once again depend on the same factors as sync’s impact. Moreover, the higher the impact, the more variety you’ll need in between the rhythmic parts. Most players will be able to tolerate small deco changes or movements, but many will quickly get bored of clicking at the exact same speed over and over again.
 

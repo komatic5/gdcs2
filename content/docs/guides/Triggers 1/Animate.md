@@ -3,16 +3,16 @@ title: Animate
 weight: 319
 draft: false
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Animate trigger can change the currently playing animation of the monster objects in the orbs tab.
 - There are plenty of animations to choose from, all of them being found in the help menu.
 - You can edit the animations of 2.2 particles with the use of the Particle Edit menu.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Animate Trigger
 
 The **Animate Trigger** :Animate: is a trigger that lets you __change the current animation of monsters__ shown in levels such as Deadlocked, Geometrical Dominator, Fingerdash, and the new 2.2 levels, along with a few custom levels.

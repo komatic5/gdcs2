@@ -3,17 +3,16 @@ title: Pacing & Progression
 weight: 707
 draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- Pacing refers to the manner in which the player's attention is grabbed and maintained. Closely related to pacing is the flow state which refers to the state of extreme concentration maintained on one task.
+- Important aspects to induce flow are; Having Clear Goals and Rewards; Rapid Feedback; and Adequate Challenges.
+- Micro flow is the short-term version of flow, occurring on a second basis in gameplay. Important factors to creating good micro flow are Rhythm, Encouragement, and Positive Feedback.
 
-- **Summary**
-- > • Pacing refers to the manner in which the player's attention is grabbed and maintained. Closely related to pacing is the flow state which refers to the state of extreme concentration maintained on one task.
-- > • Important aspects to induce flow are; Having Clear Goals and Rewards; Rapid Feedback; and Adequate Challenges.
-- > • Micro flow is the short-term version of flow, occurring on a second basis in gameplay. Important factors to creating good micro flow are Rhythm, Encouragement, and Positive Feedback.
+{{< /callout >}}
 
 ** **
-
 **1: The Flow State**
 
 When we describe Pacing, another term correlated to it is the **Flow State**. The Flow State is a __mental state where you put intense concentration into one task and lose focus on everything else__. You’ve probably heard this called “the zone” before.

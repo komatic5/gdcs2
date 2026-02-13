@@ -3,15 +3,15 @@ title: Enter Triggers
 weight: 325
 draft: false
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Enter Effect triggers add transitions to objects entering or exiting the screen.
 - In 2.2, several new enter effect triggers were added, allowing you to create custom effects.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Pre-made Enter Effects
 
 **Target Enter Channel** makes the trigger target object present in a set Enter Channel. 

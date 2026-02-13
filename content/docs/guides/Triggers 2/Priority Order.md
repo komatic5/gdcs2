@@ -3,16 +3,16 @@ title: Priority Order
 weight: 603
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Ordering of triggers is important, as it prevents possible randomness in the way they fire.
 -  Priority Order is a hidden system that determines which objects get processed first, such as collision blocks, stacked orbs, and triggers on the same X axis.
 - There are plenty of ordering algorithms that the game puts into place, but you can change this yourself with the Trigger Order option found in the Edit Group menu.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Priority Order
 
 Geometry dash is separated into invisible sections 100 units (3.33 blocks) wide, and infinitely tall. They can’t be seen in the editor, but if you could see them they’d look like the orange lines in the image below. These sections help determine the priority or order that objects or triggers activate.

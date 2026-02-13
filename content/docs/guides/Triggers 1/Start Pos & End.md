@@ -3,15 +3,15 @@ title: Start Pos & End
 weight: 327
 draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Start Position trigger sets where you start in a level. You cannot verify a level with an active Start Position in it.
 - The End trigger sets where the level ends.
 
-** **
+{{< /callout >}}
 
+** **
 # :StartPos: 1: Start Position Trigger
 
 The **Start Pos** trigger is one that allows custom starting locations in a level, and is the first trigger you see in the triggers tab. It’s very useful for playtesting, and / or starting later in a level for faster build testing. However, verifications will not allow any number of Start Pos triggers to be present in the level if you are attempting to upload.

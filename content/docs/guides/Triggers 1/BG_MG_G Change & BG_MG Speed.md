@@ -3,16 +3,16 @@ title: BG_MG_G Change & BG_MG Speed
 weight: 347
 draft: true
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The BG, MG, and G Change Triggers let you change the Background, Midground, and Ground in your level. You may also change the defaults for these through the Level Settings menu.
 - The BG and MG Speed triggers let you change your BG and MG's speed.
 - The MG trigger lets you change the MG's position.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Recap
 
 In case you haven't read the editor guides, here is a quick recap of how backgrounds, midgrounds, and grounds work. Geometry Dash has a variety of backgrounds and grounds you can use, with midgrounds being added in Update 2.2.

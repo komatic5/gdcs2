@@ -3,16 +3,16 @@ title: Making Consistent Gameplay
 weight: 415
 draft: false
 ---
-## Guide info
-Medium: 10-12 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (10-12 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Consistency is an integral part of creating a good and fair player experience in a level
 - Playtesting and study can help you identify common inconsistencies in your level
 - Using gameplay objects, game physics, and the options trigger are great ways to fix bugs
 
-** **
+{{< /callout >}}
 
+** **
 # 1: What is consistent gameplay?
 
 **Consistent gameplay** is __having a level play similarly every time you play through it__. Gameplay where you randomly die because you clicked a little off or randomly pass a part when you were supposed to die is considered inconsistent. Having very similar clicks and  very different results in the gameplay is where inconsistency can hurt the quality of a level. When designing gameplay, inconsistencies in the player’s inputs should be taken into account; they should not cause significant changes in the player’s experience.

@@ -1,19 +1,18 @@
 ---
 title: Particle System
-weight: 508
+weight: 512
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
-
-- ## **Summary**
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - While the particle system has a plethora of options, most of them are fairly self-explanatory.
 - The first window controls particle movement, the second controls their size, and visuals, the third contains extra features, and the fourth lets you set their texture.
 - There are many smaller features which help make the particle editor much easier to use as well.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Page 1
 
 ## Particle Spawning

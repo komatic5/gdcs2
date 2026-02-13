@@ -3,14 +3,15 @@ title: Creating Gameplay
 weight: 406
 draft: false
 ---
-## Guide info
-Short: 9-11 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (9-11 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Before starting, clarify the layout’s purpose and mood. Decide if it’s meant to be standalone or decorated, and identify the style you want to achieve.
 - Pick a song that resonates with your vision and choose a building approach that suits you, this will help you with gameplay planning and building flow.
 - Your gameplay decisions should fit with the song’s current pace and mood. Use gameplay motifs, speed changes, and carefully set up transitions in order to enhance the overall gameplay experience and enjoyability.
 - Self-review and peer feedback can improve the layout’s playability and visuals. Be flexible when considering feedback and remember to trust your vision.
+
+{{< /callout >}}
 
 ** **
 

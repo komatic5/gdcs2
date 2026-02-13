@@ -3,15 +3,15 @@ title: Follow & Follow Player Y
 weight: 309
 draft: false
 ---
-## Guide info
-Tiny: 1-3 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Follow Trigger copies one object’s movements to a group. You can use X/Y mod to multiply the X and Y movements accordingly.
 - The Follow Player Y trigger sets objects’ Y positions to the player’s. You can change the speed of the objects, or how much delay they have when copying the player’s movements.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Follow Trigger
 
 The Follow trigger copies one object’s movements to another set of objects. The Center group must be a One-Object group or a Parent Group, as usual.

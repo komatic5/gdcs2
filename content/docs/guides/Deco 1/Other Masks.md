@@ -1,10 +1,9 @@
 ---
 title: Other Masks
-weight: 824
-draft: true
+weight: 517
+draft: false
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
 # 1: Saturation Cancel Mask
 

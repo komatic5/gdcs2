@@ -1,22 +1,22 @@
 ---
 title: Making Air Deco
-weight: 517
+weight: 509
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
 
-- **Summary**
-- > • Air deco helps empty spaces feel less empty. Don’t use it to remove empty spaces, but to fill them a *bit*.
-- > • There are four main air deco types: Arrows, Connectors, Particles, and Overlays.
-- > • Arrows point the player in a direction.
-- > • Connectors link blocks and other objects to each other.
-- > • Particles are small objects that fill space.
-- > • Overlays are full-screen effects that can make empty spaces look more interesting.
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- Air deco helps empty spaces feel less empty. Don’t use it to remove empty spaces, but to fill them a *bit*.
+- There are four main air deco types: Arrows, Connectors, Particles, and Overlays.
+- Arrows point the player in a direction.
+- Connectors link blocks and other objects to each other.
+- Particles are small objects that fill space.
+- Overlays are full-screen effects that can make empty spaces look more interesting.
+
+{{< /callout >}}
 
 ** **
-
 **1: Do You Need Air Deco?**
 
 Before we get started, it’s important to know what air deco is and when you should use it.
@@ -64,7 +64,7 @@ Not only can you use particles to fill up space, but they can also be super help
 
 An example from Geometry Dash is `White Space` by `Xender Game` . You’ll notice a lot of small details, like how the particles blow in the wind after the train passes by, or get pushed all over the place if a structure moves quickly. The level is full of particles, so I recommend dissecting it to see all the places they get used.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rv5TpFxEy8w" frameborder="0" allowfullscreen></iframe>
+{{< youtube Rv5TpFxEy8w >}}
 
 Here are some examples from other levels.
 
@@ -84,9 +84,9 @@ Overlays are full-screen visual effects that are, well, laid over everything els
 
 You could argue that many overlays don’t function as air deco; however, I think it depends on how you make and use them. A rain effect like the one in `Culuc`’s `Black Flag` part  counts as an overlay; so do motion lines like in `Fuel` by `Bli` . Even a full-screen gradient can make your colors look more interesting and direct attention away from empty parts.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/03OC6MzgASc" frameborder="0" allowfullscreen></iframe>
+{{< youtube 03OC6MzgASc >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sdDSnr7o1uc" frameborder="0" allowfullscreen></iframe>
+{{< youtube sdDSnr7o1uc >}}
 
 When making overlays, make sure they stay as a minor detail. They shouldn’t overpower everything else, but they also should be impactful enough to be worth the objects. I recommend adding them at the very end of your deco process so you can see how they affect the finished product.
 

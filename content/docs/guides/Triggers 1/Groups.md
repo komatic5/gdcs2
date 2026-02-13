@@ -3,16 +3,16 @@ title: Groups
 weight: 304
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Group IDs (when placed on an object) can contain an array of features that can enable certain functions to take place.
 - Parent IDs are available on many triggers, which allow further versatility when wanting to control a group of objects as their reference point.
 - The editor’s pause menu includes four buttons (Re-Group, New GroupX, New GroupY and Build Helper) to assist you when attempting to re-assign an object’s group.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: The Basics
 
 To add a Group ID to an object, you must select the object and click the “Edit Group'' button. Next, select an ID number to assign the object to (from 1-9999) in the box under the “Add Group ID” text, and finally click the “Add” button next to the input box. 

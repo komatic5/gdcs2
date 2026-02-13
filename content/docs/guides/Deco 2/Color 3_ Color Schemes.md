@@ -3,16 +3,16 @@ title: Color 3 (Color Schemes)
 weight: 803
 draft: false
 ---
-## Guide info
-Short: 8-10 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (8-10 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Understanding high and low contrast is crucial for managing the energy in your work.
 - Gamut mapping tools like Kgamut help organize colors for harmonious compositions.
 - Color schemes are an easy method for finding good color combinations.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Color Contrast
 
 Here's a quick recap of contrast in case you've forgotten: __Contrast is basically how much something stands out from its surroundings.__ High contrast means that elements are very different from each other, while low contrast means that they’re similar to each other.

@@ -3,14 +3,14 @@ title: Spawn Particle
 weight: 321
 draft: false
 ---
-## Guide info
-Tiny: 1-3 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Spawn Particle trigger lets you spawn particle objects at a group of your choosing.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Spawn Particle
 
 - **Particle Group:** The group of the particle object. This group can have multiple particle objects in it.

@@ -3,16 +3,16 @@ title: Reverse & Arrow
 weight: 328
 draft: false
 ---
-## Guide info
-Short: 3-5 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (3-5 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Reverse Trigger makes go backwards, but it has the least utility if you need more complex sideways gameplay.
 - The Reverse option in the Extras menu lets you change direction by using most orbs and pads.
 - The arrow trigger allows you to go in any direction, but you need to be mindful with setting up the channels and order.
 
-** **
+{{< /callout >}}
 
+** **
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1ckqDhwTumt2IHfk_9efgvfXlxElffrf7/preview?usp=drivesdk></iframe></div>
 
 :ReverseTrigger: This is probably one of the simplest triggers in the game. Just place it down and the player goes backwards. However, it might be too simple that it also borders on useless. For example, placing two reverse triggers like below won’t work properly if you want the rightmost trigger to activate first:
@@ -69,7 +69,7 @@ In Update 2.1, we could also use this trick, however we had to rely on bugs that
 ## Going UP
 By making the player go back and forth while guiding a camera to slowly go up, you can create some interesting gameplay. This was used twice in Toxic Surge by GiaMmix.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LhLE9MqU_SQ" frameborder="0" allowfullscreen></iframe>
+{{< youtube LhLE9MqU_SQ >}}
 
 
 

@@ -1,16 +1,17 @@
 ---
 title: Parallax
-weight: 818
+weight: 518
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Objects further away from the reference point move faster and vice-versa.
 - Relative motion determines your objects’ speed relative to another point of view.
 - For a more natural tone, create more parallax layers, but make sure they move correctly.
 - You can set up three types of parallax: normal parallax, deceleration, and spinning around a point.
+
+{{< /callout >}}
 
 ** **
 

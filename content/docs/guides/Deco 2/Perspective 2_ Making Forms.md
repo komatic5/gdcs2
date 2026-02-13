@@ -3,13 +3,14 @@ title: Perspective 2 (Making Forms)
 weight: 821
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - We learned how to create stencils for our 3D shapes, and the ways you can easily create ellipses.
 - From those stencils, we can make basic forms.
 - We can merge basic forms together to form more complex shapes and decorate them as needed.
+
+{{< /callout >}}
 
 ** **
 

@@ -3,10 +3,9 @@ title: Camera Control
 weight: 722
 draft: true
 ---
-## Guide info
-Short: 9-11 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (9-11 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The camera is a tool you can use to your advantage to enhance your gameplay.
 - Lots of camera movements convey intensity, whereas little camera movements convey peace.
 - You can make a part feel massive by zooming out, or make the player feel confined by zooming in.
@@ -14,8 +13,9 @@ Short: 9-11 minutes
 - Offset, rotation, and anchor are all camera tools you can use to your advantage to emphasize or highlight certain gameplay elements.
 - Platformer mode opens opportunities for many camera tricks to arise, like full camera control, screen transitions, and camera locking.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Intensity
 
 A good camera can help the gameplay feel intense, and vice versa. Usually, a rapidly moving camera gives a sense of ordered chaos and speed. By giving significant vertical movements to the player, you can emphasize parts of the song using this strategy. This also works the other way around, by using little camera movements to support a calmer part.
@@ -26,11 +26,11 @@ However, having insanely big and random camera movements is something you should
 
 - Waterfall by [cherry] team - This robot part uses a lot of camera movements, which multiplies the intensity tenfold.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IrVvX8Q1frM" frameborder="0" allowfullscreen></iframe>
+{{< youtube IrVvX8Q1frM >}}
 
 - THE HILLS HAVE EYES by cometface - This first cube uses the ground as well as the lack of camera movements to convey a sense of peace.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C9pvVQoADTI" frameborder="0" allowfullscreen></iframe>
+{{< youtube C9pvVQoADTI >}}
 
 # 2: Scale
 
@@ -42,11 +42,11 @@ On the other hand, zooming out can help the level feel massive and make you feel
 
 - Rise Up by Astraa - The zoomed-out camera works wonderfully in tandem with the free-fly swingcopter and the massive structures.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4-gurKxtej8" frameborder="0" allowfullscreen></iframe>
+{{< youtube 4-gurKxtej8 >}}
 
 - I Love You by Astraa - The song here sounds remorseful, and the gameplay represents it perfectly by zooming in slightly. Note that there's still space ahead of you to see where you’re going.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Te9A8CruSx4" frameborder="0" allowfullscreen></iframe>
+{{< youtube Te9A8CruSx4 >}}
 
 # 3: Camera Triggers
 
@@ -78,19 +78,19 @@ In Update 2.2, there are camera offsets, rotations, and anchors, which can be us
 
 - Hollow Knight is a game with an exceptional camera. Take this boss battle for example. Before you head into the boss battle, the camera offsets to the left to highlight the arena, letting you know that something might be coming up. Once you enter, the camera anchors to the center of the arena, keeping all parts of the gameplay visible and helping the player focus on the space they can use to fight.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jBdlJPHoaNw" frameborder="0" allowfullscreen></iframe>
+{{< youtube jBdlJPHoaNw >}}
 
 - Celeste also has a good camera. In this segment of gameplay, the player has to go past difficult obstacles to the right, which the game responds with by offsetting the camera in said direction. This is so that there’s more visibility and the player can react more easily to the gameplay. Then, as the gameplay shifts to be more vertical, the camera anchors itself to the center of the screen and offsets above the player, once again highlighting the part of gameplay that the player needs to see.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uD6xX8oZ3dE" frameborder="0" allowfullscreen></iframe>
+{{< youtube uD6xX8oZ3dE >}}
 
 - FIGHT OF LIGHT is a Geometry Dash platformer boss fight level by TheMilkCat. This level anchors itself to frame your space to shift the focus onto the enemy. The camera never moves from this spot unless necessary, as it would probably disrupt the flow. However, around the midway point of the level, the camera quickly zooms in and rotates slightly to emphasize your progression throughout the level.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GI3yk81Fz7A" frameborder="0" allowfullscreen></iframe>
+{{< youtube GI3yk81Fz7A >}}
 
 - Ori and the Will of the Wisps is the last example on this list. This part once again features camera offsets to the right, as the player advances in that direction. However, there are also camera zooms and other offsets to enhance the atmosphere. For example, when the player enters a giant wheel that rolls down a hill, the screen zooms out and moves upwards to truly help the player see the scale of the wheel. After this segment, it zooms in again to frame the new, slightly cramped space they’re in.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lykAm-lJVss" frameborder="0" allowfullscreen></iframe>
+{{< youtube lykAm-lJVss >}}
 
 # 4: Platformer Mode
 
@@ -99,17 +99,17 @@ Although platformer mode shares a lot of the same concepts as autoscrolling, the
 **Full camera control** gives the creator access to __moving the camera wherever they want__, which in platformer mode can really shine. You can move the camera to a key or collectible, then back to the player so that they know what they’re looking for, or you can use the camera to survey the whole room and let the player know what's coming up.
 - One of the new platformer levels in Geometry Dash uses a “screen surveying” tactic. The camera shifts around the room, showing players a bit of what they’ll have to go through.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ipK7vQ8gEZw" frameborder="0" allowfullscreen></iframe>
+{{< youtube ipK7vQ8gEZw >}}
 
 Camera controls can also let you do **screen transitions**, which is basically when __the player enters another “room.”__ By turning the screen black and quickly moving the camera and player to a different location, you can give the player the effect of just entering a new area with new obstacles and atmosphere. 
  - In this level, the player falls through a cave, and a screen transition occurs. Immediately after, the level and song switches, which all combine to help the player feel like just entering a completely new part.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LxA4NJMiZ8o" frameborder="0" allowfullscreen></iframe>
+{{< youtube LxA4NJMiZ8o >}}
 
 An obvious but useful technique is **camera locking** the screen to __frame a room or something else__. Locking the camera is a really easy tool in platformer mode; you can have all your gameplay visible, with a sense of progression each time you enter a new segment. It also helps the player focus on their surroundings rather than purely themselves. If the room is really big, you can alternatively unlock the camera but use the edge trigger to stop the screen from going past the edge. This is called “padding.” 
  - In the 2.2 trailer, there’s an example part to demonstrate the gradient trigger. The camera is locked to the center to draw attention away from the player and bring attention to the general area around the player, most notably the “light” that the gradient trigger helps simulate.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LxA4NJMiZ8o" frameborder="0" allowfullscreen></iframe>
+{{< youtube LxA4NJMiZ8o >}}
 
 
 

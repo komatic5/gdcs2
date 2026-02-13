@@ -3,15 +3,15 @@ title: BPM
 weight: 316
 draft: false
 ---
-## Guide info
-Tiny: 1-3 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The BPM trigger lets you accurately make guidelines for your song, which is helpful for syncing gameplay properly.
 - You can find the BPM of your song using a site like Tunebat.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: BPM Trigger
 
 Place down the :BPMTrigger: BPM Trigger l and then go to :EditObject: Edit Object. You should see this menu.

@@ -3,16 +3,16 @@ title: Creating Decoration
 weight: 506
 draft: false
 ---
-## Guide info
-Medium: 11-13 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (11-13 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Recursive Decoration is a concept where objects are used more intricately the more complexity we add, structured much like an anthill may be constructed.
 - Organizing decoration is important as it prevents scenarios where objects may become difficult to select, or to help with the workflow as a whole.
 - Workflows includes 2 types: Horizontal and Vertical. These can be used to the advantage of the creator, but should be experimented with to find which best suits you.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Recursive Decoration
 
 After all the previous steps, the last is to figure out how to make the deco itself, but this isn’t like the topics beforehand.
@@ -144,7 +144,7 @@ This method makes it easier to tell what’s finished which is good for feedback
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1IbDgxH3QRiY6FbnoDDnmEpKZvXpcjJXV/preview?usp=drivesdk></iframe></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Za5W0WdmPz0" frameborder="0" allowfullscreen></iframe>
+{{< youtube Za5W0WdmPz0 >}}
 
 Conversely, you can build **vertically** __ where everything is built simultaneously__. For example, you would make drafts for the blocks, background, and air deco before fleshing everything out at the same time. This method works well for complex work, as you can focus on the whole product before refining everything later. However, it can be worse for feedback as people often fail to identify when a part is finished with this method.
 
@@ -152,7 +152,7 @@ Here's an example from the second part in my level Anarchy Road, when the second
 
 <div><iframe src=https://drive.google.com/file/d/1uiV54Wa5JBFP1w8U4dr2UK5gSCU9lq0k/preview?usp=drivesdk></iframe></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tRXA8FqUCds" frameborder="0" allowfullscreen></iframe>
+{{< youtube tRXA8FqUCds >}}
 
 ## Cohesion
 
@@ -160,9 +160,9 @@ Regardless of if you build horizontally or vertically, all of your deco types �
 
 The level of **cohesion** in your work is __how much each deco element works with everything else__. When you have a cohesive level, nothing contrasts too much with everything else. It may be difficult to tell when something is cohesive, as it’s effectively an invisible thing - however, it is noticeable when something stands out in a bad way. You may not notice cohesion issues in NEWER horizons by Aimbotter2123, but you may feel like the backgrounds in Adrone's part in Scattered Faith are drowned out by the flashy block designs.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h9Q84QVkKYk" frameborder="0" allowfullscreen></iframe>
+{{< youtube h9Q84QVkKYk >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ufrg38442gw" frameborder="0" allowfullscreen></iframe>
+{{< youtube ufrg38442gw >}}
 
 
 

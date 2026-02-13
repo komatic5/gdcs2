@@ -3,16 +3,16 @@ title: Fixing Bugs
 weight: 347
 draft: true
 ---
-## Guide info
-Short: 6-8 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (6-8 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Bugs are errors that don’t match what you intended.
 - You can find the cause of a bug by checking the groups and the triggers.
 - How you fix a bug depends on the type of bug and its complexity.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: What is a Bug?
 
 A **bug** is when __something happens in-game you didn’t intend for__. The first step to fixing any bug in your level is to identify _what_ the problem is. While working with triggers, you should playtest often in order to spot a bug before the trigger work gets complex, and harder to bugfix. Before starting, you should have a _clear vision of the process and the result_. This can be made simpler by adding text objects as labels to organize your work. When playtesting, keep your eye out for anything that doesn't match your said vision. Once you have identified any bug, move on to the next step.

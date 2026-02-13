@@ -3,16 +3,16 @@ title: Swing
 weight: 421
 draft: true
 ---
-## Guide info
-Short: 6-8 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (6-8 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - When clicked, the Swing gradually inverts its gravity, following a curved path.
 - The Swing is best used in slow, calm, open or wavy sections due to its floaty nature and characteristic trajectory.
 - You can use Portals, Orbs, or the Gravity trigger to take advantage of the Swing’s physics, allowing for more interesting gameplay.
 
-** **
+{{< /callout >}}
 
+** **
 Swing is a new vehicle introduced in the 2.2 update of Geometry Dash. It consists of a floating ball that can change gravity at any time. This gravity change is slow and projects a curvy path; the more inclined the Swing is, the more time it takes to completely change its gravity.
 
 # Swing Gravity
@@ -43,9 +43,9 @@ None
 
 On the other hand, Dash and Cosmic Dolphin by **DeeperSpace** both provide a good example of a wide area that allows the Swing to fly with no strict path. The gameplay is built in an intuitive way, without using any indicators; the player knows when to change gravity to go as the path shows. This type of gameplay gives freedom to the player, but normally this would be reserved for easier levels that let such gameplay sections work in the first place.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LELzrqozNpI" frameborder="0" allowfullscreen></iframe>
+{{< youtube LELzrqozNpI >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKkXkHQsOIk" frameborder="0" allowfullscreen></iframe>
+{{< youtube PKkXkHQsOIk >}}
 
 # Relation to Other Gamemodes
 
@@ -70,15 +70,15 @@ However, there are a lot of song’s sections where the gamemode not only fits g
 
 - Calm sections that don't require a lot of inputs but still need a flying sensation. See Golden Hour by **Zoroa**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZraYSyCNer0" frameborder="0" allowfullscreen></iframe>
+{{< youtube ZraYSyCNer0 >}}
 
 - Sections with quick, separated notes that let the Swing’s function to go in sync, while making the change in gravity noticeable. See Placid Ivy Grove.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m2hIWrhwEnE" frameborder="0" allowfullscreen></iframe>
+{{< youtube m2hIWrhwEnE >}}
 
 - Sections with several few notes and separated notes, that allow you to mix in with Portals, Orbs, and Swing’s function. See the following example I made.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjrmibWqk3g" frameborder="0" allowfullscreen></iframe>
+{{< youtube jjrmibWqk3g >}}
 
 # Side Notes and Applications
 

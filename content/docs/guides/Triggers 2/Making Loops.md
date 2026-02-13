@@ -3,16 +3,16 @@ title: Making Loops
 weight: 607
 draft: false
 ---
-## Guide info
-Medium: 15-17 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (15-17 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Using loops is a great way to accurately and repeatedly use a set of triggers.
 - The most common type of loop is a spawn loop, with many different variations of this loop.
 - Every loop is best suited for a different application, and each has pros and cons.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Spawn Loop
 
 A spawn loop is the most well-known and common loop. It uses a sequence of spawn triggers that activate other spawn triggers. 

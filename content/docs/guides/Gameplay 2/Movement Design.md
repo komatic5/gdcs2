@@ -3,18 +3,18 @@ title: Movement Design
 weight: 719
 draft: false
 ---
-## Guide info
-Short: 7-9 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (7-9 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Movement is the core of most systems and can make something as simple as traversing feel fun.
 - Players should be able to see, hear, and expect a motion as soon as an input is executed.
 - Movements should feel consistent to refine accuracy and skill as opposed to feeling random.
 - Moving around should feel dynamic and satisfying, and the system should be easy to use.
 - When travelling around, players shouldn’t be able to abuse the movement system to bypass everything, yet it shouldn’t feel like a chore to use.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: What Is Movement Design?
 
 **Movement design** usually refers to __how (and in what ways) the player moves around in their environment__. This is pretty crucial if you want to make a fun game, since the player spends most of their time using these mechanics to navigate—it wouldn't really be a fun game if you had to fight the controls to get to where you want to go.

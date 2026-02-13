@@ -3,15 +3,15 @@ title: Show_Hide Player, Player Trail, & BG Effects
 weight: 347
 draft: true
 ---
-## Guide info
-Tiny: 1-3 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The last gameplay-related triggers are the Show/Hide Player, Show/Hide Player Trail, BG Effect On/Off.
 -  All of these are self explanatory and easy to set up.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: :ShowPlayer: :HidePlayer: Show/Hide Player Triggers
 
 The Show/Hide Player triggers are the 24th and 25th triggers in the triggers page. Their appearance consists of an icon with the words "show" or "hide" above it. 

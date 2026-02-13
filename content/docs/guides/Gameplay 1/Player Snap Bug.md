@@ -3,17 +3,17 @@ title: Player Snap Bug
 weight: 412
 draft: false
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The snap bug is a mechanic created by RobTop to make staircases like the ones from Stereo Madness work indefinitely without the player falling off them.
 - It works when the player interacts with two solid objects one after the another, comparing the positions of the player and the objects themselves.
 - If the player lands further ahead than when they jumped relative to the block position, then the game moves them backwards.
 - If the player lands further behind than when they jumped relative to the block position, then the game moves them forwards.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Introduction
 
 The **Snap bug** is an obscure mechanic that RobTop implemented for jumping staircases to function properly.
@@ -80,7 +80,7 @@ Upside down gravity:
 
 **NOTE:** This setup above is highly FPS dependent, meaning the player will move forward on a larger distance on higher FPS than on lower FPS due to the fact that more FPS has more subframes. Tax Evasion by Skub uses a more stable but inconsistent setup that is not FPS dependent.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeIzV2SgZFY" frameborder="0" allowfullscreen></iframe>
+{{< youtube oeIzV2SgZFY >}}
 
 The setup is shown below.
 

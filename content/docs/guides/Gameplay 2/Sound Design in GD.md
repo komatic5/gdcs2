@@ -3,25 +3,25 @@ title: Sound Design in GD
 weight: 713
 draft: false
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Sound design is an important concept behind making custom sounds for levels
 - To add fully custom sounds, you can upload sounds to the Newgrounds platform if you have an eligible account
 - Another way to use interesting sounds is with the in-game sound library and the SFX trigger
 
-** **
+{{< /callout >}}
 
+** **
 What not a lot of people know is that the song was specially made to accomplish this. This level uses a custom song with various sound effects to incorporate layers of atmosphere into the level, and it does that wonderfully. This isn't the only level to use sound design to its advantage, as there are plenty of other levels that use custom sound effects and songs, such as Apeirophobia by Ph4lip and Anarchy Road by komatic5. But what exactly IS sound design? 
 
 Well, to put it simply, **sound design** is __the art of making sounds for any kind of audio and visual media, such as film, music, and in this case, video games__!
 
 There are two ways of incorporating your own sounds for your GD Level:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p-BUROO_-z0" frameborder="0" allowfullscreen></iframe>
+{{< youtube p-BUROO_-z0 >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tRXA8FqUCds" frameborder="0" allowfullscreen></iframe>
+{{< youtube tRXA8FqUCds >}}
 
 # 1: Making Custom Sounds
 

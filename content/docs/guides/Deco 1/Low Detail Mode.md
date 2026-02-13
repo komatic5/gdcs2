@@ -3,18 +3,18 @@ title: Low Detail Mode
 weight: 519
 draft: true
 ---
-## Guide info
-Short: 9-11 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (9-11 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Levels tend to lag due to high object densities and complex object properties, especially with trigger usage.
 - Tick “High Detail” to an object to toggle it off when Low Detail Mode is on or use toggle triggers if you need more customization.
 - Optimization refers to reducing the amount of objects used without affecting its appearance, which is important for creating less lag when playing levels.
 - Some important efficiency skills to include are overlapping objects, using scaling (scalehack and/or warping), and using certain object archetypes to achieve something in a sustainable manner.
 - Reducing objects can be done by creating a second copy of any group of objects that need to be optimized and using efficiency skills to reduce object count.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: How Levels are Rendered
 
 Generally speaking, the game does calculations for every object in a level. By that logic, the more frequent and complex the calculations are, the laggier the level.
@@ -63,7 +63,7 @@ Following that idea, sometimes you might want to give the players more customiza
 3. Normal with LDM ticked
 4. Min Mode with LDM ticked
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j_Hgp-k2twk" frameborder="0" allowfullscreen></iframe>
+{{< youtube j_Hgp-k2twk >}}
 
 With 2.2’s upgrades in Item IDs, the amount of LDM customization has expanded.
 
@@ -132,7 +132,7 @@ With other object types that have both base and detail color channels, you can a
 
 As much as creators can use toggles for LDM, toggles can also be used for optimizing by removing unnecessary objects that are offscreen. Castlemania does this with its branching paths where any path the player avoids gets toggled off. As shown here, removing those toggles makes the level difficult to render in the editor and in-game.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dhsYDtOrvw0" frameborder="0" allowfullscreen></iframe>
+{{< youtube dhsYDtOrvw0 >}}
 
 ## Miscellaneous Methods
 
@@ -170,7 +170,7 @@ Note that this works significantly better if you use a lot of Editor layers. Thi
 
 Here is an example of this process.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NMwzuKoi3Nk" frameborder="0" allowfullscreen></iframe>
+{{< youtube NMwzuKoi3Nk >}}
 
                    ~~
 

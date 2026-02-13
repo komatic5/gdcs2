@@ -3,17 +3,17 @@ title: Scale
 weight: 310
 draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The scale trigger changes the size of objects set from their individual centers or center point.
 - You can multiply or divide an object’s size
 - Changing only one of the axis in ScaleX/Y allows you to squash or stretch objects.
 - With Relative Scale, the trigger uses the center group ID as a reference to scale.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Features
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1g8vB3toUYUxIGd-5Q4Zlclt1s_p238zG/preview?usp=drivesdk></iframe></div>
@@ -51,7 +51,7 @@ Similar to the move and rotate triggers, you can apply easings, and make it acti
 ## Pre 2.2 Scaling
 Before 2.2, scaling was achieved by using plenty of groups and follow triggers, which was unoptimized. JamAttack made a video in which he discussed and explained this method.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FzVIs43rNUs" frameborder="0" allowfullscreen></iframe>
+{{< youtube FzVIs43rNUs >}}
 
 
 

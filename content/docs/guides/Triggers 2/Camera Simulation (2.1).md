@@ -3,10 +3,9 @@ title: Camera Simulation (2.1)
 weight: 619
 draft: false
 ---
-## Guide info
-Short: 8-10 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (8-10 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The rectangular field that you can see on screen is the camera.
 - There are 2 modules to simulate this camera: with borders and without borders.
 - The camera simulation with borders cost at least three groups.
@@ -14,8 +13,9 @@ Short: 8-10 minutes
 - With gravity changes, at least two groups will be needed for spawns.
 - When starting out, choose one of these modules; it will save you the headache.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Camera
 
 Before we go to the meaty part of this guide, let’s take a look at the **camera**. Simply put, __it captures the screen of the device; the rectangular field that constantly follows the player__. Regardless of your device, your screen’s height will remain exactly `10 ⅔` blocks tall. However, your screen’s length depends on your device’s aspect ratio: Standard Aspect Ratio (`22` blocks) vs. Widescreen (`24` blocks). But there are other lengths beyond these two ratios.
@@ -26,9 +26,9 @@ If you manage to simulate this camera, you can upgrade the parallax in your leve
 
 In addition, you’ll notice that most gamemodes have fixed borders at the top and bottom, even the duals. However, only the robot and cube gamemodes are borderless. This will change in 2.2 once Free Fly Mode is introduced for all gamemodes. As of 2.1, there are two ways to set up the camera: with borders and without borders. We need this distinction because the camera’s modules will differ greatly.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8G_8F2tXYpw" frameborder="0" allowfullscreen></iframe>
+{{< youtube 8G_8F2tXYpw >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fPXLGli6XGw" frameborder="0" allowfullscreen></iframe>
+{{< youtube fPXLGli6XGw >}}
 
 # 2: Camera Simulation with Borders
 

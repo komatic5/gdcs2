@@ -3,10 +3,9 @@ title: Scroll Speed Bug
 weight: 411
 draft: false
 ---
-## Guide info
-Short: 6-8 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (6-8 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Scroll Speed Bug (SSB) is a bug in the game that is unfixable.
 - It is related to floating point numbers (floats) being inaccurate, especially at very high values.
 - SSB can cause certain effects like:
@@ -14,6 +13,8 @@ Short: 6-8 minutes
 - The wave pointing straight.
 - The blocks and visuals displaying incorrectly.
 - The X-pos limit, where the value you are adding to the player is so slow that the player just stops moving. It is not because the player reaches the 32-bit integer limit.
+
+{{< /callout >}}
 
 ** **
 

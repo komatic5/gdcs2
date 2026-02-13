@@ -3,16 +3,16 @@ title: Spawn Order
 weight: 602
 draft: false
 ---
-## Guide info
-Short: 3-5 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (3-5 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Triggers activate from left to right when spawned by a Spawn trigger, in a process called Spawn Order.
 - You can activate multiple spawn triggers with one trigger, known as Branching. The branch with the higher Spawn Order will activate in full before the game processes the next branch.
 - You can merge branches together by activating the same group on the same frame with multiple branches.
 
-** **
+{{< /callout >}}
 
+** **
 If you activate two triggers on the same frame, how does Geometry Dash know which to activate first? The answer is Activation Order. There are two systems in-game for this, the first of which is Spawn Order. This guide will discuss what it is and how it works.
 
 # 1: Spawn Order

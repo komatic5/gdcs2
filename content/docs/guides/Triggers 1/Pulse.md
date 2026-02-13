@@ -3,15 +3,15 @@ title: Pulse
 weight: 303
 draft: false
 ---
-## Guide info
-Tiny: 1-3 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Pulse triggers change the color of a certain color channel or group for a set amount of time using the "Fade In", "Hold", and "Fade Out" sliders.
 - In order to choose what changes color, you can toggle either of the Pulse Mode or Target Type options.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Pulse Trigger
 
 The pulse trigger has a built-in color editor and multiple features:

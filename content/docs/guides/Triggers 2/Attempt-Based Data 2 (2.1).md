@@ -3,18 +3,17 @@ title: Attempt-Based Data 2 (2.1)
 weight: 618
 draft: false
 ---
-## Guide info
-Short: 8-10 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (8-10 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- As we explored in the prior lesson, there is a way to save binary data between attempts by exploiting the game’s Priority Order mechanic.
+- This can be expanded upon to save integer values as well.
+- You'll have to start with the binary save system from the prior lesson, but modified so you can have multiple saves. Then, you'll have to convert the binary values to integers and create a system to reset them as necessary.
+- Finally, you'll have to make a system that converts integers back to binary.
 
-- **Summary**
-- > • As we explored in the prior lesson, there is a way to save binary data between attempts by exploiting the game’s Priority Order mechanic.
-- > • This can be expanded upon to save integer values as well.
-- > • You'll have to start with the binary save system from the prior lesson, but modified so you can have multiple saves. Then, you'll have to convert the binary values to integers and create a system to reset them as necessary.
-- > • Finally, you'll have to make a system that converts integers back to binary.
+{{< /callout >}}
 
 ** **
-
 **1: Binary Numbers**
 
 When we refer to the base of a counting system, we mean the maximum number of values we can put into a single column of digits. For **binary**, that base is 2, and the __only values that numbers can use are 0 and 1__. Counting in binary would go like 0, 1, 10, 11, 100, 101, 110, 111 and so on. Counting in **decimal**, or __base-10, is what we’re used to; 0, 1, 2, 3, 4, 5, and so on__. 

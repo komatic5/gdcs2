@@ -3,15 +3,15 @@ title: Color 5 (Human Perception)
 weight: 805
 draft: false
 ---
-## Guide info
-Short: 6-8 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (6-8 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Our eyes contain rods and cones which let us perceive color. Color blindness occurs when a cone malfunctions.
 - Color relativity changes our perception of color based on the surrounding colors. This can lead to many unique visual illusions. As a result, there are also ‘impossible’ colors which exist only in our perceptions and not in reality.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: The Human Eye
 
 Before diving into color blindness and tetrachromacy, let’s talk about how the human eye normally functions and how we perceive color and light.

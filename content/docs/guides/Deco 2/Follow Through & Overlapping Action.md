@@ -1,15 +1,16 @@
 ---
 title: Follow Through & Overlapping Action
-weight: 814
+weight: 811
 draft: false
 ---
-## Guide info
-Short: 3-5 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (3-5 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Follow Through shows how different parts of an object are affected by inertia.
 - Overlapping Action shows how loosely connected objects move at their own individual speeds to make organic movements.
 - These principles are much more applicable for exaggerating weight on organic objects as opposed to rigid, heavy, and mechanical objects.
+
+{{< /callout >}}
 
 ** **
 

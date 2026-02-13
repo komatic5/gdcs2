@@ -1,10 +1,9 @@
 ---
 title: Layering Masks
-weight: 824
-draft: true
+weight: 515
+draft: false
 ---
-## Guide info
-Short: 6-8 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (6-8 minutes)
 
 # 1: Background Mask
 

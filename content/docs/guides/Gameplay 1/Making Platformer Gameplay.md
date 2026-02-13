@@ -3,16 +3,16 @@ title: Making Platformer Gameplay
 weight: 419
 draft: false
 ---
-## Guide info
-Short: 8-10 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (8-10 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Platformer mode is a new level type introduced in 2.2 that allows free horizontal movement of the player.
 - Writing down ideas and brainstorming gameplay helps tremendously in making platformer levels, along with having a clear idea of what makes good quality gameplay.
 - There are many genres of gameplay that a platformer level can take on, some notable ones being Standard, Room, and Needle gameplay.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: What is platformer mode?
 
 Platformer mode was introduced in 2.2, which completely altered the main gameplay loop. Unlike classic mode, you have complete horizontal freedom of movement via the arrow and A and D keys or the mobile UI controls.

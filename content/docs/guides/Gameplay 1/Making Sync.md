@@ -3,16 +3,16 @@ title: Making Sync
 weight: 414
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Implementing sync into your level helps keep the level engaging for the player, and gives them a “foundation” for their clicks.
 - There are plenty of tools in the editor that allow you to create accurate sync, and can all be used to effectively build different types of sync.
 - Outside factors such as audio delay, polling rate, and speed portals can affect the result of how your gameplay syncs. Employing thorough playtesting can help combat these issues.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Why does sync matter?
 
 Sync is an essential component for classic gameplay, since it keeps the level engaging for the player. It’s also useful for giving the player a “foundation” for their clicks.

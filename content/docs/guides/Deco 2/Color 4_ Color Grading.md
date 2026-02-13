@@ -3,15 +3,15 @@ title: Color 4 (Color Grading)
 weight: 804
 draft: false
 ---
-## Guide info
-Short: 8-10 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (8-10 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - There are numerous ideas regarding color grading, like gradual transitions between colors when there are changes of scenes. However, that is up to the creator to ideate themselves, and seeing what they can come up with.
 - The next time you want to set an atmosphere for your level, always ask yourself if the colors are playing their role.
 
-** **
+{{< /callout >}}
 
+** **
 Picture your favorite film in nothing but black and white, devoid of any greens of a forest, the reds of a sunset, or the blues of a moonlit night. How different would the impact be? In this guide, we will look at what **color grading** is, and how you can use it to bump up your levels.
 
 ## Crucial Techniques You Should Note before Digging into Color Grading
@@ -52,7 +52,7 @@ While most color symbolism depends on things like culture (as evidenced by Black
 
 APEIROPHOBIA by Ph4lip focuses on a very ominous and threatening mood, using dark and dull colors to increase the level’s immersion.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p-BUROO_-z0" frameborder="0" allowfullscreen></iframe>
+{{< youtube p-BUROO_-z0 >}}
 
 ## Finding Your Color Palette
 The most effective way to do this is by creating the decoration using its normal colors, then altering them later to match the mood you want to convey, through trial and error. You can also browse reference images based on your theme, and examine the color palettes that they use, utilizing them when making your level.
@@ -61,9 +61,9 @@ The first part in Postbluane, created by Deovise, invokes a very calm, yet adven
 
 Anarchy Road by Komatic5 enhances the destruction of the city by using red tints to invoke a more violent feel.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QHe2vLYCvSQ" frameborder="0" allowfullscreen></iframe>
+{{< youtube QHe2vLYCvSQ >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kY_iLItMdWw" frameborder="0" allowfullscreen></iframe>
+{{< youtube kY_iLItMdWw >}}
 
 One way to learn how different colors work together is by altering the color palette of an existing artwork. In the following example, I will use mine.
 
@@ -91,7 +91,7 @@ Pulses are generally used to show intensity. However, when sticking to a theme, 
 
 An example of mine shows strong pulses that don’t necessarily disrupt the mood of the level. To stick to a cold atmosphere, I stuck with pulses around the blue range, to allow the cold mood to maintain itself throughout the level.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Njg8nLXN4-M" frameborder="0" allowfullscreen></iframe>
+{{< youtube Njg8nLXN4-M >}}
 
 ## Tools of the Trade: Edit Color Trigger
 When you open the **Edit Color** shader trigger, you will be greeted with this menu.

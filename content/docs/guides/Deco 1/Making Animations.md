@@ -1,19 +1,19 @@
 ---
 title: Making Animations
-weight: 518
+weight: 510
 draft: false
 ---
-## Guide info
-Short: 7-9 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (7-9 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Animation in GD can be divided into four different parts; X movement, Y movement, Rotation, and Frame-by-frame.
 - It’s very useful to think of X and Y movements separately, and use easings to get the specific type of movement that you want.
 - You can then use rotation to make your animations feel slightly more lifelike, and anything more complex (such as objects changing shapes or morphing) can be done using frame-by-frame animation.
 - Keep in mind that you probably won’t get your animations perfect on the first try; always be open to adjusting your movements or adding more parts to your animation, like particles and pulses.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: X and Y movement
 
 Although these two forms of movement are essentially the same, it is very useful to imagine them as separate elements that should not be done by the same move triggers. If the animation includes complex movement in both the X and Y direction, try to imagine the animation only in terms of its movement from side to side and then make move triggers that accomplish that motion. Afterwards, imagine it in terms of vertical motion and make a second set of triggers that cause that motion. While this simplifies planar motion down a good amount, there still are many ways you can go about it because of the many easings that move triggers have. Understanding what each easing actually means will reveal a lot about when and where they should be used in animating.

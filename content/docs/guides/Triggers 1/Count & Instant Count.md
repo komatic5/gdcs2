@@ -3,15 +3,15 @@ title: Count & Instant Count
 weight: 344
 draft: false
 ---
-## Guide info
-Tiny: 1-3 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Count trigger waits until an Item ID reaches a target count before activating, while the Instant Count trigger checks if the target count is reached at the instant it activates.
 - Both triggers double as Toggle and Spawn triggers.
 
-** **
+{{< /callout >}}
 
+** **
 The Count trigger :Count: will take an Item ID, *wait UNTIL that ID passes a specific Target Count*, and then activate or deactivate a Target Group ID. It can work as both a Toggle and a Spawn Trigger.
 
 None

@@ -3,16 +3,16 @@ title: Area Triggers
 weight: 318
 draft: false
 ---
-## Guide info
-Short: 7-9 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (7-9 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Area triggers activate based on the distance between a center object and other objects. Think of them like a collision trigger "over time".
 - Every area trigger has a Length, Offset, Target Group, and Center Group option. There are also Area Animate triggers which can edit the existing values of Area Triggers.
 - Each area trigger, like Area Move, has unique options which let you customize their behavior.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Overview
 
 First, let's go over the options that are found in every area trigger.

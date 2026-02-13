@@ -1,20 +1,19 @@
 ---
 title: Making Blocks
-weight: 515
+weight: 507
 draft: false
 ---
-## Guide info
-Short: 6-8 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (6-8 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- Blocks always start with a hitbox from the gameplay. You can leave the gameplay’s structures as they are, or you can remake them to suit your deco needs.
+- Once you’re done making structures, you can make a base, which is a simple version of your block with very few details inside.
+- When making details, it’s best if you place most of them at the edges & corners of your blocks. You can keep some on the inside, but they shouldn’t be a majority at all.
+- To speed up the creation process, I recommend you make a bunch of custom assets which you can reuse for your blocks.
 
-- **Summary**
-- > • Blocks always start with a hitbox from the gameplay. You can leave the gameplay’s structures as they are, or you can remake them to suit your deco needs.
-- > • Once you’re done making structures, you can make a base, which is a simple version of your block with very few details inside.
-- > • When making details, it’s best if you place most of them at the edges & corners of your blocks. You can keep some on the inside, but they shouldn’t be a majority at all.
-- > • To speed up the creation process, I recommend you make a bunch of custom assets which you can reuse for your blocks.
+{{< /callout >}}
 
 ** **
-
 **1: Structuring Blocks**
 
 The first step of making any deco is laying down a basic structure or shape. With blocks, you need to remember that they have hitboxes. They play a part in gameplay, so the player will interact with them. Many times they’ll also have spikes or other hazards on them. This means you can’t just make any random shape for your blocks; they must have a clear platform that the player knows they can land on.
@@ -79,7 +78,7 @@ When making assets, I like to make a few different types depending on how I’ll
 
 Here are some assets from my Emerald Realm part . After making the assets, especially the rocks, most of my time just went into exploring ways to combine them in the structures so they could look unique without actually having to be super original. This helped me cut my creating time significantly.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lRBiEWxifsk" frameborder="0" allowfullscreen></iframe>
+{{< youtube lRBiEWxifsk >}}
 
 <div><iframe src=https://drive.google.com/file/d/1HoVotmm-di7Jcsk_4Avjh1lo2MNEP42o/preview?usp=drivesdk></iframe></div>
 

@@ -3,15 +3,15 @@ title: Pickup
 weight: 343
 draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Pickup trigger lets you modify the value of an Item ID. Its checkboxes give you more control of how you modify it.
 - The Counter object lets you display the value of an Item ID.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Item IDs & Pickup Trigger
 
 **Item IDs** __essentially store numbers__. If you want to change the value of an Item ID, set a pickup trigger to target it then change the value in the “Count” box.

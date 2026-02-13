@@ -3,15 +3,15 @@ title: Touch
 weight: 336
 draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Touch trigger activates when the player clicks; it doubles as a toggle and a spawn trigger
 - You can simulate the Touch trigger using Toggle Orbs/Blocks.
 
-** **
+{{< /callout >}}
 
+** **
 The **Touch trigger** :Touch: works as a Toggle trigger and a Spawn trigger; __it activates when the player clicks or touches the screen__.
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1_eTmwMj75UfXvxED8iv7gpnSRn-f5KAs/preview?usp=drivesdk></iframe></div>

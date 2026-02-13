@@ -3,16 +3,16 @@ title: Level Design
 weight: 718
 draft: false
 ---
-## Guide info
-Long: 26-30 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Long** (26-30 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Level Design is divided into two parts: Room Design and World Design.
 - Room Design is how you create small sections or “rooms” of gameplay. This requires an objective for the player, obstacles they must overcome to reach the objective, and a Critical Path through the room.
 - World Design is how you combine rooms to make larger areas. This is an important way to weave Pacing and Flow into your gameplay. You can also make use of design patterns and Cognitive Mapping to help players learn what’s in an area.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: What is Level Design?
 
 Level design has a few crucial components to it, the most important of which is a **level**. These are spaces where the player can interact with their environment. For instance, a board is the level for a board game, and a Geometry Dash level is the space itself. Levels are the most important part of a game; without them there wouldn’t even be any game to play, just rules with no actual setting.
@@ -43,7 +43,7 @@ Feedback is key when designing rooms; it lets the player determine certain thing
 
 **Sense of progression**: This helps the player feel like they’re making progress or going in the right direction. You might not realize this, but designers do this constantly; often with quest objectives, showing progress bars, or other visual changes. For example in the game *Spore*, the planets you terraform change their appearance over time.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KptAkGOMi48" frameborder="0" allowfullscreen></iframe>
+{{< youtube KptAkGOMi48 >}}
 
 **Shape language**: This is how different shapes convey different things to the player. Round shapes usually give a feeling of safety, sharp shapes convey danger and make the player avoid them, and square shapes represent utility. This usually gives the player a general idea of what to do when first entering a room, which is great for introducing new mechanics. You’ll learn more about this in the advanced decoration guides as well.
 
@@ -100,7 +100,7 @@ The **Central Mechanic** in a room is the main one used within that room. This h
 
 If your rooms use random mechanics instead of sticking to a few central ones, they could feel inconsistent and hard to learn, like the final room in The Core C-Side in *Celeste*. This room uses almost every mechanic available at this point, at the cost of being one of the least fun rooms in the game.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/etbgXCe8zuU" frameborder="0" allowfullscreen></iframe>
+{{< youtube etbgXCe8zuU >}}
 
 Once you’ve chosen a central mechanic for your room, you must also decide what the player will do with it: how they will get from point A to point B. This is what the **Critical Path** is: the intended path through a room. Having critical paths helps you predict where the player will go when designing a room, so you know what enemies and items they’ll likely encounter when playing.
 
@@ -211,7 +211,7 @@ Use these factors intentionally to alter flow. You’ll want high speed and abru
 
 Keep your critical path in mind when controlling these factors. As with room design, the critical path here is just the most direct path through an area, so altering that path will alter the area’s flow. In addition to the concepts mentioned in Room Design, you’ll also need to consider the player’s “desired path” through your area. If the critical path is very convoluted compared to a straight path from one place to another, it may hurt your pacing and be frustrating. Some developers accommodate this by adding difficult skips that save time, like in Flipswap Factory by zejoant.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YRlBAXQTrzM" frameborder="0" allowfullscreen></iframe>
+{{< youtube YRlBAXQTrzM >}}
 
 ## Pacing
 As you should know from the Pacing guide, this is how you control the gameplay’s tempo and order of events. Pacing will affect the difficulty you choose for the rooms in an area, as well as the area’s difficulty relative to the whole level. Each room in an area is equivalent to a pacing beat, or an event the player experiences.
@@ -267,7 +267,7 @@ Finally, it’s helpful to keep **dynamism** in mind when making environments. J
 - [Josh Bycer: A Study Into Puzzle Design](https://www.gamedeveloper.com/design/a-study-into-puzzle-design)
 - Staffs Games Institute: Introduction to Puzzle Design (Basic Principles, Player Knowledge Considerations, and Setting Gameplay Objectives)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dVjibdYG4bs" frameborder="0" allowfullscreen></iframe>
+{{< youtube dVjibdYG4bs >}}
 
 
 

@@ -3,16 +3,16 @@ title: Using Remap Properties
 weight: 604
 draft: false
 ---
-## Guide info
-Short: 6-8 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (6-8 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Spawn remapping has various properties: Abstraction, Priority, Inheritance, Recursion and Exclusivity.
 - These properties heavily affect how spawn remapping must be handled in order to best utilize it.
 - You can also use these properties to bypass certain game limitations or create helpful systems.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Spawn Remap Properties
 
 ## Abstraction

@@ -3,16 +3,16 @@ title: Using Gamemodes
 weight: 401
 draft: false
 ---
-## Guide info
-Long: 20-24 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Long** (20-24 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Everything you do in gameplay, especially your gamemode choices, should be with a purpose.
 - Each gamemode has unique properties that allow them to function in different situations. These properties should be used to choose your gamemodes.
 - There are a lot of unique interactions between gamemodes and other gameplay objects which you can use to your advantage.
 
-** **
+{{< /callout >}}
 
+** **
 One of the most crucial parts of gameplay in Geometry Dash is knowing *how to use gamemodes*. These dictate how the player navigates levels, as well as the entire feeling of a part or level. As such, gamemode use can massively impact how fun or frustrating a level is.
 
 The key to using gamemodes, and creating gameplay as a whole, is to do **everything with intent**. You should pick your gamemodes for a *reason* and then utilize that reason to its fullest. For instance, don’t switch to Robot for ten seconds just for the player to do a single hold, as you’re not using the gamemode’s unique properties at all. Unless you have a *really good reason* to change gamemodes like this, it’s best to avoid it.
@@ -52,7 +52,7 @@ The Ship is probably the most complicated gamemode for the player to use, requir
 
 This gamemode is typically quite floaty, but you can make good use of it in fast & snappy parts thanks to orbs, giving it an edge over a gamemode like the Robot. This also means it has countless ways to be used; you can create simple straight flies, tight curved sections like the one in Astral Divinity, and so on.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wt76QZqF-os" frameborder="0" allowfullscreen></iframe>
+{{< youtube Wt76QZqF-os >}}
 
 **Pros & Cons**
 - Uses holds and releases in the most varied ways 
@@ -185,7 +185,7 @@ Here’s an example Cube part I made that uses orbs and  the Cube’s natural pr
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1HYyehxc6y0xKwCo0QW-ygAaD9HLNKPjG/preview?usp=drivesdk></iframe></div>
 
 ## Ship
-Ship parts can have a free-flowing nature, but you can still make this really interesting. Don’t *always* have the player idly float, and give them something to do. For example, have the player go up when the song’s melody or volume rises, or vice versa. As a gamemode with air control, structuring is really important for players to understand your gameplay, so try to keep things at least somewhat understandable.
+Ship parts can have a free-flowing nature, but you can still make this really interesting. Don’t *always*have the player idly float, and give them something to do. For example, have the player go up when the song’s melody or volume rises, or vice versa. As a gamemode with air control, structuring is really important for players to understand your gameplay, so try to keep things at least somewhat understandable.
 The Ship can also feel snappier using orbs as well. There are a lot of unique interactions with orbs because the Ship takes into account hold inputs at all times.
 - Blue orbs act as a small burst of momentum when holding
 - Black orbs bounce the player if they touch a platform
@@ -245,7 +245,7 @@ The Spider is the most powerful gamemode for emphasizing notes, and is successfu
 
 Like the Cube, holding after of a black orb will perform a click as soon as you land (though not with a blue orb). This allows you to make clicks much more consistent as well as control the flow of the part much easier. In addition, clicking into a pad will instantly activate it, letting you  bounce, change gravity, or do whatever you want after a click. This constant up and down combined with bounces and orbs is extremely satisfying; you can see an example of it in this part of TROLLMACHINE.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VSw1c3L8szo" frameborder="0" allowfullscreen></iframe>
+{{< youtube VSw1c3L8szo >}}
 
 ** **
 
@@ -256,7 +256,7 @@ This is the Spider part in my level, rounding out this part of the drop. This sp
 ## Swing
 Swing is widely considered as the worst gamemode due to how badly creators use it. They tend to slap it on top of Ship gameplay without considering what the Swing does best: big arcs and curves. Swing uses big curves best, so make sure you take advantage of that. Another important part of Swing is how long it takes for you to actually *see* your input. You can either you can use the gamemode’s unresponsivenessto your advantage (like BUTTON MASHER by Viprin & More), or you can somewhat remedy it using the gravity trigger to increase the player’s gravity.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7b6NTNIa2Lg" frameborder="0" allowfullscreen></iframe>
+{{< youtube 7b6NTNIa2Lg >}}
 
 You can use orbs in the Swing to help with the responsiveness problem as well. Clicking right after a blue orb will act as a boost of momentum, kind of like the Ship’s interaction with the blue orb. Other interactions are fairly intuitive, but for some reason only dash orbs will flip your gravity after using them. Thus, the green dash orb will flip your gravity and the purple dash orb won’t. Using pads with the Swing can be interesting too, as they force you to be a specific gravity before landing on them.
 
@@ -275,7 +275,7 @@ The part below is a video of me using multiple gamemodes in a single part of the
 
 Lastly, here’s a video of the entire level if you’re interested in seeing how it all turned out.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FGAftuAcquM" frameborder="0" allowfullscreen></iframe>
+{{< youtube FGAftuAcquM >}}
 
 
 

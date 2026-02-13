@@ -3,15 +3,15 @@ title: Using Deco Objects
 weight: 501
 draft: false
 ---
-## Guide info
-Short: 9-11 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (9-11 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - All decoration is made with shapes, and all shapes are made from objects. You can use a variety of methods to create your own custom shapes and curves, which usually comes down to choosing objects and dissecting them to make shapes.
 - Shapes are also colored, which can be done by setting new color channels for your objects. You can also use Blending and Opacity to use colors in more interesting ways.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Choosing Objects By Shape
 
 As a new decorator, you might wonder how to choose objects. Should you look at an object’s texture? Its size? Color? While those are good to consider, they’re largely unimportant.

@@ -3,8 +3,7 @@ title: Making Optimized Setups
 weight: 615
 draft: false
 ---
-## Guide info
-Medium: 13-15 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (13-15 minutes)
 
 During the creating process, you will be met with various issues regarding the performance and effectiveness of your trigger setups. This guide seeks to help you better optimize and organize your triggers.
 ## Why Optimize and Organize?

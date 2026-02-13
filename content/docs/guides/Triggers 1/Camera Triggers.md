@@ -3,15 +3,15 @@ title: Camera Triggers
 weight: 329
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - With Update 2.2, various Camera Triggers are added to the game.
 - These triggers can manipulate the camera in several ways, such as rotating it or fixing it to a certain point.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Zoom :ZoomTrigger:
 
 Use the **Zoom** trigger to __simply zoom the camera in and out__:

@@ -3,16 +3,16 @@ title: Time, Time Event, & Time Control
 weight: 346
 draft: false
 ---
-## Guide info
-Tiny: 1-3 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Time trigger turns counter labels into timers, useful for Platformer levels.
 - The Time Event trigger activates groups when specific times are reached.
 - The Time Control trigger activates or deactivates a timer.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Time
 
 The **Time** trigger :TimerTrigger: looks like a white clock and is used to turn an item ID into a timer as well as specify any additional settings. 

@@ -3,18 +3,18 @@ title: Color 2 (Using Colors)
 weight: 802
 draft: false
 ---
-## Guide info
-Short: 6-8 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (6-8 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Using gray colors can create contrast and can also be used to transition between warm colors and cool colors.
 - Using greens is very important as humans are the most perceptible to changes in this color. Greens can also look good with other colors, like purples and reds.
 - Gradients allow for a seamless transition between two colors. There are hue, saturation, and value gradients.
 - Tints are different shades of the same color. They can help create an atmospheric mood.
 - Accents are small details that are used sparingly and are used to create emphasis. They can help make your creations more memorable.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Using Grays
 
 Some think that since grays are dull colors, they are not important. On the contrary, mastering the usage of grays will greatly help with your colors overall. In this section, we investigate how using grays can help achieve appropriate contrast. Note that when we refer to grays, we refer to not just strictly grayscale values, but any desaturated color in general.
@@ -62,11 +62,11 @@ Here is an example of an artwork that heavily uses different hues of green. The 
 Here are some examples from GD:
 In Ibrah, Kivvvi, Cuaer, and Nekon’s part of Cytokinesis, the primarily used color is green, but is complemented by the secondary blue pulses. Some of the green elements in the part are also livened up by pulses into a more yellow-green hue. Both of these factors contribute to an interesting color composition.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xOXpRRjvhFM" frameborder="0" allowfullscreen></iframe>
+{{< youtube xOXpRRjvhFM >}}
 
 In Deovise’s part of Postbluane, green plays a role as an accent or secondary color rather than the primary color. Still, it is contrasted effectively with the primarily cooler blue shades to show the warm sunlight on the greenery. Meanwhile, a bluer hue is used for the shadows, both for hue variation and to showcase the ambient blue light from the sky.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QHe2vLYCvSQ" frameborder="0" allowfullscreen></iframe>
+{{< youtube QHe2vLYCvSQ >}}
 
 # 3: Color Gradients
 
@@ -91,7 +91,7 @@ The UI elements of this UI/UX prototype are tints of the same primary color, bro
 
 An example of tints used in GD is in this part of NEW LIGHT by cometface. This level uses darker tints of orange and yellow for the blocks, and lighter tints of yellow for the background. This helps the player to focus on the block designs and structuring, and also helps to create an atmospheric and airy background.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7-NAVWnJ0b4" frameborder="0" allowfullscreen></iframe>
+{{< youtube 7-NAVWnJ0b4 >}}
 
 # 5: Accents
 
@@ -107,7 +107,7 @@ The spaceship below by Kirill Nadtochiy has gray and blue as its main colors. Th
 
 An example in GD is Magdalene by Lyriaki. This part uses light blue accents to contrast with the red primary color, helping the red stand out much more. This prevents the red from looking monotonous and dead, and additionally helps direct the viewer’s focus as the player icon moves through the part.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QG4uT-s985w" frameborder="0" allowfullscreen></iframe>
+{{< youtube QG4uT-s985w >}}
 
 
 ## Sources

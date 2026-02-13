@@ -3,16 +3,16 @@ title: Item Edit, Comp, & Pers
 weight: 347
 draft: true
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Item Edit lets you form simple or complex equations using two Item ID values and store the result.
 - Item Comp compares two Item ID values and activates groups based on the result.
 - Item Pers gives Item IDs the ability to remain after the player has died.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Item Edit
 
 The Item Edit trigger lets you make simple equations using the values stored in Item IDs.

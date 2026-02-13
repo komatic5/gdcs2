@@ -3,17 +3,16 @@ title: Attempt-Based Data 1 (2.1)
 weight: 617
 draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- You can save data between attempts by changing the **priority order** of Collision blocks.
+- Changing the priority will change the order Collision triggers are activated in, and this is saved between attempts.
+- You can use this feature to save binary values between attempts.
 
-- **Summary**
-- > • You can save data between attempts by changing the **priority order** of Collision blocks.
-- > • Changing the priority will change the order Collision triggers are activated in, and this is saved between attempts.
-- > • You can use this feature to save binary values between attempts.
+{{< /callout >}}
 
 ** **
-
 **1: Setup**
 
 This setup will involve three parts: The Collision blocks themselves, the Collision triggers, and the Move triggers that make everything work.

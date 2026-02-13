@@ -3,19 +3,18 @@ title: Perspective 1 (Basics)
 weight: 820
 draft: false
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- Forms are 3D objects bound by 2D shapes. These shapes make it easier to understand how the 3D form projects onto a flat 2D screen.
+- Complex forms can be simplified into a combination of simpler, basic forms.
+- Perspective is how forms and their shapes appear when seen from different viewpoints.
+- The horizon line is the boundary between the sky and the ground.
+- A vanishing point is where a set of lines parallel to each other converge.
 
-- **Summary**
-- > • Forms are 3D objects bound by 2D shapes. These shapes make it easier to understand how the 3D form projects onto a flat 2D screen.
-- > • Complex forms can be simplified into a combination of simpler, basic forms.
-- > • Perspective is how forms and their shapes appear when seen from different viewpoints.
-- > • The horizon line is the boundary between the sky and the ground.
-- > • A vanishing point is where a set of lines parallel to each other converge.
+{{< /callout >}}
 
 ** **
-
 **1: Form**
 
 Shapes are 2D objects bounded by lines. Forms are 3D objects bounded by shapes. Just as shapes can be made with lines and curves, forms are made by combining shapes together. The most common shapes used are quadrilaterals (four-sided shapes), ellipses, and triangles.

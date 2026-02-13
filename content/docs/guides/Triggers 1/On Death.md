@@ -3,16 +3,15 @@ title: On Death
 weight: 335
 draft: false
 ---
-## Guide info
-Tiny: 0-2 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (0-2 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- The On Death trigger activates when the player dies.
+- When Activate Group is disabled, it toggles objects off. When Activate Group is enabled, it toggles objects on and activates any triggers marked as Spawn Triggered.
 
-- **Summary**
-- > • The On Death trigger activates when the player dies.
-- > • When Activate Group is disabled, it toggles objects off. When Activate Group is enabled, it toggles objects on and activates any triggers marked as Spawn Triggered.
+{{< /callout >}}
 
 ** **
-
 **1: Features**
 
 The On Death trigger works as both a toggle and spawn trigger. This is shared by most other condition triggers as well, so take note of that.

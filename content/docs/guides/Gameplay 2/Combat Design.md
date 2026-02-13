@@ -3,10 +3,9 @@ title: Combat Design
 weight: 720
 draft: false
 ---
-## Guide info
-Long: 51-55 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Long** (51-55 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Defining the role of your combat system within the game and its importance relative to other systems will help you determine its complexity and design all related mechanics and aspects.
 - To keep players engaged with the combat system, provide reasons and opportunities to interact with it outside of battle, establish a noticeable and impactful progression, and ensure combat interactions feel meaningful and rewarding to the player.
 - You can enhance your combat system by interlinking all its mechanics around a central concept, this way the system will be cohesive, all mechanics will have greater significance, and you will keep gameplay interesting.
@@ -20,8 +19,9 @@ Long: 51-55 minutes
 - The enemies you place should serve a purpose and complement the player’s experience in the game. How you spread the enemies will impact the perception of the area in which they are as well.
 - Enemies should be built in a way that they enhance the strengths of your combat system and let the player interact with it effectively, while feeling part of your game’s world.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Knowing Your Goal
 
 Knowing what your combat system should do is extremely important, as combat comes in all kinds of forms and has various different purposes. This section will cover how you can identify the purpose of your combat system and how you can use it to design the system.

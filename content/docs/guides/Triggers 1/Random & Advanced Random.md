@@ -3,17 +3,16 @@ title: Random & Advanced Random
 weight: 340
 draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- Two triggers control randomness; the Random and Advanced Random triggers.
+- The Random trigger works with two groups, while Advanced Random can use multiple when it works. Both can double as Toggle or Spawn triggers.
+- It’s best to make your randomness function fairly if it has to affect gameplay at all.
 
-- **Summary**
-- > • Two triggers control randomness; the Random and Advanced Random triggers.
-- > • The Random trigger works with two groups, while Advanced Random can use multiple when it works. Both can double as Toggle or Spawn triggers.
-- > • It’s best to make your randomness function fairly if it has to affect gameplay at all.
+{{< /callout >}}
 
 ** **
-
 **1: Random Trigger**
 
 The default random trigger uses two groups and a single slider. This Chance slider determines the likelihood that Group 1 toggles; a chance of 90% means the first group will be toggled nine times out of ten.

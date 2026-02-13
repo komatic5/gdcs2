@@ -3,31 +3,31 @@ title: Trigger Intro
 weight: 301
 draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Triggers are objects that change the properties of other objects.
 - Some triggers take a certain time to work, known as Duration. Most use Groups, which tell them what objects to target. Some even use special IDs besides groups too.
 - To use triggers, decide which one you want, then place it down and set it up. Playtest to make sure the effect works as you expected.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: What Are Triggers?
 
 Triggers are objects that can change the properties of other objects. You can use triggers to make objects change colors, move around, rotate, and so on. In the editor, triggers are just colored circles with a tag and a number on them. However, when you’re playing a level, they are invisible.
 
 At a low level, you can do very simple things with triggers, like in Stereo Madness where only the background and ground colors change. At the most advanced level, you can do seemingly mind-blowing things, like in HOW.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUrPev0g1qE" frameborder="0" allowfullscreen></iframe>
+{{< youtube ZUrPev0g1qE >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-XcPfH9MDFk" frameborder="0" allowfullscreen></iframe>
+{{< youtube -XcPfH9MDFk >}}
 
 People have even made entire games inside of GD; some examples include Geometry Dash and MasterGame. Triggers made all of these levels possible.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/88HtsbRIWfI" frameborder="0" allowfullscreen></iframe>
+{{< youtube 88HtsbRIWfI >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/azgK0u-MsNI" frameborder="0" allowfullscreen></iframe>
+{{< youtube azgK0u-MsNI >}}
 
 # 2: Trigger Features
 

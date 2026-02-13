@@ -3,16 +3,16 @@ title: Mechanics 1 (Intro)
 weight: 701
 draft: false
 ---
-## Guide info
-Short: 6-8 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (6-8 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Effective mechanics generally follow these 3 principles: Extensiveness, Immersion, and Engagement.
 - Mechanics need to be introduced to the player, but be careful to not forget about them and cause burnout.
 - Knowing how to combine existing mechanics to create new ones and introduce those is also important as well.
 
-** **
+{{< /callout >}}
 
+** **
 **Mechanics** are __rules or gimmicks in gameplay that add more to the existing gameplay a level has__. An example of this is the health bar, where once it’s depleted, you die. What makes mechanics interesting is their ability to completely change how the player approaches the level, giving the opportunity to make creative gameplay.
 
 This guide will explain the process behind creating custom mechanics for your gameplay. For implementing them, you should check out #triggers-2 for its logic-based guides.

@@ -3,16 +3,16 @@ title: Perspective 3 (Using Planes)
 weight: 822
 draft: false
 ---
-## Guide info
-Medium: 11-13 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (11-13 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Planes are needed to divide or multiply forms; they are 2D shapes that are located in a 3D space.
 - Mirroring planes in perspective helps you with creating symmetry in your object’s forms.
 - For mirroring curves, there are 4 techniques to comb over, most of which rely upon transfer points; depending on your vision, some techniques will be more valid than another.
 
-** **
+{{< /callout >}}
 
+** **
 At this point, you should be comfortable with basic perspective uses. However, once you make something more complex than just basic shapes, it becomes crucial to know how to speed up your workflow. This is where perspective tools come into play. All of these tools are useful for a more advanced understanding of perspective, like the type used to make complex objects shown in this image from Scott Robertson. Even if you don’t wish to make 3D stuff in the future, you can still benefit from thinking of shapes in a more advanced way.
 
 None

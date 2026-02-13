@@ -3,19 +3,18 @@ title: The Trigger Process
 weight: 347
 draft: true
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- Your trigger workflow needs to have three things: functions, modules, and truth conditions.
+- Functions show the trigger's specific tasks; make them clear and descriptive.
+- Modules are parts that execute the function. They are recursive in nature.
+- Truth Conditions set your modules' timing. These determine when your modules activate.
+- The applications of this workflow can get complex, so use flowcharts to keep things organized, and placeholders to test your modules on a small scale.
 
-- **Summary**
-- > • Your trigger workflow needs to have three things: functions, modules, and truth conditions.
-- > • Functions show the trigger's specific tasks; make them clear and descriptive.
-- > • Modules are parts that execute the function. They are recursive in nature.
-- > • Truth Conditions set your modules' timing. These determine when your modules activate.
-- > • The applications of this workflow can get complex, so use flowcharts to keep things organized, and placeholders to test your modules on a small scale.
+{{< /callout >}}
 
 ** **
-
 **1: Functions**
 
 A **function** is a __set of triggers that performs a certain task.__ What do you want your triggers to do? Make the background pulse? Move text onto the screen? It's essential to specify your function in the beginning, because it sets your workflow's end goal. *The more specifications you give to a function, the more complex the trigger setup.* 

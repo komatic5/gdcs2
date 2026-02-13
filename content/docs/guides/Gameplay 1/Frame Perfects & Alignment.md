@@ -3,16 +3,16 @@ title: Frame Perfects & Alignment
 weight: 410
 draft: false
 ---
-## Guide info
-Short: 6-8 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (6-8 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - We described the different types of frame-perfects and how to construct them.
 - Discovered the internal mechanics of how frame-perfects work.
 - Understood the purpose and fundamentals of frame alignment.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: What are Frame-perfects?
 
 **Frame-perfects** are __timings that have a window of one frame to click.__ These are usually difficult due to the little to no error needed to pass, but there are variations of a frame-perfect.

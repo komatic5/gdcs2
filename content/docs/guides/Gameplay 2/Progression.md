@@ -3,17 +3,16 @@ title: Progression
 weight: 722
 draft: true
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- To keep the player interested in a level, it should progress over the long-run. For gameplay, this means varying the difficulty and intensity throughout the level.
+- Good levels toe the line between boredom and anxiety when dealing with difficulty and intensity. This keeps players in the flow state over a longer time.
+- Using easier to grasp gimmicks in the beginning of a level and then adding complexity later on gives the player a sense of control.
 
-- **Summary**
-- > • To keep the player interested in a level, it should progress over the long-run. For gameplay, this means varying the difficulty and intensity throughout the level.
-- > • Good levels toe the line between boredom and anxiety when dealing with difficulty and intensity. This keeps players in the flow state over a longer time.
-- > • Using easier to grasp gimmicks in the beginning of a level and then adding complexity later on gives the player a sense of control.
+{{< /callout >}}
 
 ** **
-
 **1: Macro Flow**
 
 Macro flow is a part of pacing that covers the long-term ways to make your level engaging. In order to keep the player's focus, the level should make larger changes that develop a central theme or idea. The idea of macro flow explains why some levels feel underwhelming at the drop, or why certain game modes or speed portals "fit" better than others.

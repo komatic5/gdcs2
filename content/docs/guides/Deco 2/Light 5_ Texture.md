@@ -3,17 +3,17 @@ title: Light 5 (Texture)
 weight: 810
 draft: false
 ---
-## Guide info
-Medium: 14-16 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (14-16 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Texture is a type of detail that communicates how an object might feel to touch.
 - Although it’s very tempting to make textures by spamming objects, being smart about how you place your objects will save you time and make your textures more effective.
 - Many materials like metal, wood, and glass have distinct properties which you can leverage when making textures. It’s a good idea to employ photo reference and do some basic research on materials not covered here.
 - Textures can also leverage lighting effects, such as subsurface scattering and the Fresnel Effect.
 
-** **
+{{< /callout >}}
 
+** **
 Textures are details that let us imagine how an object would feel to touch. People typically use these for more “realistic” decoration to communicate what materials an object is made of.
 
 However, textures are useful for more than just realism. This art was made by [NAKA](<https://naka.bio/>) as part of an abstract art prompt, and even though it’s not depicting any real-life objects, the texture and form still help you imagine what it might feel like to touch it.

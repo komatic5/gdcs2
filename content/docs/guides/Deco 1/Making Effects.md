@@ -1,18 +1,18 @@
 ---
 title: Making Effects
-weight: 519
-draft: true
+weight: 511
+draft: false
 ---
-## Guide info
-Medium: 12-14 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (12-14 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - By taking full advantage of all the editor features, you can create a wide range of visual effects.
 - You can use layering tricks, visual illusions and ambiguity in order to achieve more interesting effects.
 - Having a clear idea and understanding its underlying logistics will allow you to achieve your desired effect successfully.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: What Are Effects?
 
 **Effects** __are visuals or imagery created by taking advantage of the game's features__. They can make use of triggers, particles, layering or visual tricks, and the kinds of visuals you can create are limitless. There are many types of effects, as well as core mechanics that you should understand before trying to create your own. This section will go over the technical details you will need to know.
@@ -82,11 +82,11 @@ What makes the shader triggers even more compelling though is their Strength, In
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1yUil_Y03QINnh-iBkAe1eRlpxgRLl3VR/preview?usp=drivesdk></iframe></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9AuptH4fElM" frameborder="0" allowfullscreen></iframe>
+{{< youtube 9AuptH4fElM >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nOQURadITc4" frameborder="0" allowfullscreen></iframe>
+{{< youtube nOQURadITc4 >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/toYzkwGtKZE" frameborder="0" allowfullscreen></iframe>
+{{< youtube toYzkwGtKZE >}}
 
 **Keep in mind that there is a big drawback behind shader effects; they are extremely laggy.** By default they render at 4K resolution regardless of your screen size, unless you install the "Shader Fix" mod in Geode.
 
@@ -130,7 +130,7 @@ Neither of these illusions give you any clues on the actual movement that is goi
 
 HOW by Spu7nix explores this idea on the cylinders in the background. It uses various different patterns that go up and down to create the illusion of the cylinder rotating.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UKqMBAxxun8" frameborder="0" allowfullscreen></iframe>
+{{< youtube UKqMBAxxun8 >}}
 
 There is a category of effects called **manual effects**, which as the name suggests, are made manually. These effects (like lens flare, glow lasers, and impact frames) are used mainly to enhance artworks and don’t involve a core GD mechanic. This guide won’t go over these in detail as there is a lot of nuance behind them. However, [there is a Grade 2 guide on them](<https://discord.com/channels/414295025883545600/1284312450417557534>) that goes in depth.
 
@@ -151,9 +151,9 @@ Let's make an example. You could start with this editor fact: *blending objects 
 Example 1
 Example 2 (1 minute in)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMKmJwdMMTQ" frameborder="0" allowfullscreen></iframe>
+{{< youtube HMKmJwdMMTQ >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ClHHB4a2ez0" frameborder="0" allowfullscreen></iframe>
+{{< youtube ClHHB4a2ez0 >}}
 
 Here is another example of building on a concept. Using long rotating rectangles with the same color allows for interesting patterns to come up beneath them. My friend first used this technique in the first video below, and I later drew inspiration from it for the background in the next video. *Keep in mind that I took the idea and expanded on it, rather than outright stealing it.*
 
@@ -161,7 +161,7 @@ Here is another example of building on a concept. Using long rotating rectangles
 
 Example 2 (Start)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ClHHB4a2ez0" frameborder="0" allowfullscreen></iframe>
+{{< youtube ClHHB4a2ez0 >}}
 
 Now that you know what your effect does and how it works, you should start brainstorming *how to apply it to your level*. This is where the trigger stuff comes in and where things may start breaking; this process will vary depending on the effect. Here are some tips below anyway:
 

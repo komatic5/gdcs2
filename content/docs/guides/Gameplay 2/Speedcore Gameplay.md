@@ -3,18 +3,18 @@ title: Speedcore Gameplay
 weight: 722
 draft: true
 ---
-## Guide info
-Short: 9-11 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (9-11 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Speedcore is a genre of gameplay that’s focused on speed, intensity, and ordered chaos (at the sacrifice of readability and simplicity).
 - Wherever you can, you should try to add player movement to your speedcore parts.
 - The click pattern should be consistent yet also have variety, and focus on the strongest notes of the song.
 - You can make your gameplay feel faster by moving the entire part towards the player, or by surrounding the part with slower gameplay.
 - By splitting up the speedcore part into chunks, you can simplify the process to create efficiently.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Fundamentals
 
 When making speedcore gameplay, there are some things that you must know. These things will help you **understand the concept** of speedcore itself as well as how to properly create it. *However, please keep in mind that these fundamentals are not set in stone;* Geometry Dash’s editor is a sandbox game, so you can always **bend the rules if it fits your needs.** Most of the rules of fast-paced gameplay apply here as well, so take note of that too.
@@ -77,31 +77,31 @@ INSANE SPEEDCORE LAYOUT by ‘Bloodstorm’
 
 Right off the bat, we can see the usage of holds. The first hold is on the first beat of the measure, and the icon is constantly moving as the wave through teleport and gravity portal. Every single second there are always movements, like the pads and the wave. The click pattern follows the guidelines set beforehand; focusing on the stronger first notes, and enhancing it by clicking on the 8th note right before it.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2DGZOFMBkcI" frameborder="0" allowfullscreen></iframe>
+{{< youtube 2DGZOFMBkcI >}}
 
 The Daybreak Will Never Come Again by ‘Chunlv1’
 
 The click pattern for this part is a lot more spammy, but the amount of chaotic motion easily makes up for it. There’s a rapidly moving spider, a cube filled with pads, a dual combining pads and fast waves, and plenty of other things that just add to the chaos. This is a good example that you don’t have to perfectly follow the guidelines to make a successful speedcore part.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q-dw2VZQb9s" frameborder="0" allowfullscreen></iframe>
+{{< youtube q-dw2VZQb9s >}}
 
 TERABYTE CONNECTION by ‘Quibbic’
 
 This is possibly one of the most confusing and chaotic speedcore layouts, despite the gameplay being mostly in a straight path. The player movement is heavily based upon slopes and portals. The slopes give constant fast and repeatable motion, and the portals add onto the confusion. If you slow down the layout, you can see a whole world or tiny movements, and when you play at full speed you can really feel the intensity despite not understanding most of the movements. The click pattern is relatively tame, mostly clicking on the 1st and 3rd beat of every measure but still having variation throughout. This click pattern is consistent and still satisfying despite being mostly simple.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LbZ-JiYfCtc" frameborder="0" allowfullscreen></iframe>
+{{< youtube LbZ-JiYfCtc >}}
 
 Ghost by ‘Bigthunder556’
 
 The motion of this part comes from a combination of cube/spider clicks and pads. This example is excellent at showing other uses of duals; rather than making both icons have movements, it uses duals to enhance the movement of 1 specific icon by occasionally adding in more action which correlates with chaos. The song here has prominent drums and the level represents this amazingly as all the clicks are synced right on top of them.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eWQ_0s97jKc" frameborder="0" allowfullscreen></iframe>
+{{< youtube eWQ_0s97jKc >}}
 
 MAXIMUS MACHINEGUN by ‘WillyGD’
 
 This is an obvious pick. The creator expertly uses artificial speed here, by moving the level towards the player. There are constant teleport portals, mini portals, and pads, ensuring chaos 100% of the time. Click pattern-wise, it’s quite simple, being a satisfying metronome on certain beats.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qkjKaxzEHLM" frameborder="0" allowfullscreen></iframe>
+{{< youtube qkjKaxzEHLM >}}
 
 
 

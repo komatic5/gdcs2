@@ -3,17 +3,17 @@ title: Creating Details
 weight: 505
 draft: false
 ---
-## Guide info
-Medium: 13-15 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Medium** (13-15 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Details are individual features of objects. While you should know how to make them from GD objects already, you should know about their different uses. They can describe an object's function to the player, tell a story or contribute to worldbuilding, or just exist solely to look cool.
 - Details are best created by getting plenty of reference images. You can use these to get ideas for details, to help identify ways to create certain decoration, or study them to commit certain skills to memory.
 - Less is more with details; while having more may get you praise in the GD community, it's often not worth the extra time and objects. Focus on quality over quantity here.
 - As you create, you'll also hear a lot about styles. While these are useful to categorize levels, that is their primary use. Do not let a style define you or how you create.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: References
 
 Unless you’re a master of using shapes to make objects, you’ll need to build up this skill by __analyzing the objects you wish to make__. Only the most skilled creators can produce deco directly from their minds, and only with specific objects that they have studied. If you think you’re above using references, try building anything without them and see how well you do - you’ll see how much better you do when you have a reference.

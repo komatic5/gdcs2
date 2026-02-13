@@ -3,18 +3,18 @@ title: Mechanics 3 (Feedback)
 weight: 703
 draft: false
 ---
-## Guide info
-Short: 8-10 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (8-10 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Feedback in games or levels encompasses how information is conveyed to the player.
 - Feedback can come from visuals, sound, and responsiveness; as long as it is tangible.
 - Feedback teaches the player the rules of your game/level.
 - The information that feedback gives to the player and how the player responds creates a feedback loop.
 - Different games and mechanics accommodate different types of feedback, so be mindful with those details.
 
-** **
+{{< /callout >}}
 
+** **
 By this point, you would have a mechanic and its gameplay loop for the player to repeat. However, these elements alone are not enough for a game if they are not clearly taught to the player. This is why *feedback* is important in game design. What is feedback? How can a creator design feedback that reflects the intended feeling of a mechanic? This guide will explore these questions.
 
 # 1: What is Feedback?

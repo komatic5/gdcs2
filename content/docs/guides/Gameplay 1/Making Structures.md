@@ -3,15 +3,15 @@ title: Making Structures
 weight: 418
 draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Structuring affects both the gameplay and the decoration of a level. Creating good structures makes a level more readable and more intuitive to play. You can do this by directing the player towards essential points, which are platforms and hazards they need to be aware of.
 - Structuring can also be used to fix some issues not related to the actual level, such as skips. You'll have to do playtesting to identify and fix skips correctly.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Why Structure?
 
 Structures are important for many reasons. They can help guide the player through your gameplay and influence how intuitive it feels to play.

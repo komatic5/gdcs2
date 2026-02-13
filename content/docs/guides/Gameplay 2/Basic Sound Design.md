@@ -3,16 +3,16 @@ title: Basic Sound Design
 weight: 714
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Using DAW software, you can create a variety of sounds to use in your level, making use of free plugins such as Vital for FL Studio.
 - There are four main soundwave types: Sine, Saw, Square, and Triangle waves.
 - Using Additive or Subtractive Synthesis, you can use the four basic soundwaves and combine them into more interesting sounds. Samplers can add to this process, giving the sound a distinct texture.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Installing Plugins
 
 To install plugins on FL Studio, make sure to have a .vst3 or .vst file prepared. On the top-left hand side of the UI, go to Options > “Manage Plugins”. This will open up the Plugin Manager window.

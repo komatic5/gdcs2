@@ -3,15 +3,15 @@ title: UI & Link Visible
 weight: 347
 draft: true
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The UI Trigger lets you create a UI that stays on screen at all times.
 - The Link Visible Trigger lets you force objects in a group to always render.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: UI Trigger
 
 The UI Trigger allows you to keep objects on screen at all times. This also means that any objects in the UI will not have a hitbox, so they cannot be used as center objects for triggers like :Rotate: and :GradientTrigger:. The camera guide is a good object to center your UI around as it tells you what is visible on the screen when playing.

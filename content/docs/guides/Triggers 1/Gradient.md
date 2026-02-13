@@ -3,17 +3,17 @@ title: Gradient
 weight: 320
 draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The gradient trigger lets you create gradients in a certain range. It also has four different blending modes.
 - The layer which the gradient is rendered on can be changed via the 'disable' option and the gradient color, you have to change the color channels that the gradient is using.
 - Vertex mode enables a mesh to occur between four exact points of the editor, which can generate a variety of effects.
 - Vertex mode uses center group id's, which can be used to implement 2D meshes (as while the points move, it causes the gradient shape to change).
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Basic Mode
 
 The Gradient trigger has two major settings: Edit Object and Special Edit. 

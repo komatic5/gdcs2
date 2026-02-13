@@ -3,17 +3,17 @@ title: Binary Stacking
 weight: 347
 draft: true
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - You can use Binary Counting to your advantage to optimize groups in the form of Binary Stacking.
 - Count in binary and use it in Move Logic to stack X/Y Mod multiples This can allow you to do things like make dozens of parallax layers with only a few groups.
 - Use Toggle Logic to optimize frame-by-frame animations or anything that requires separate states.
 - Binary stacking can be further expanded for other types such as ternary stacking, although these require a bit more math and are further limited by groups.
 
-** **
+{{< /callout >}}
 
+** **
 # 0: What is Binary?
 
 Binary is a numeral system that is __composed of just 1s and 0s__, unlike the more commonly used decimal system which is __based on powers of 10__. Counting in **decimal** looks like this: 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10. Counting in **binary** looks like this: 0, 1, 10, 11, 101, and so on. 

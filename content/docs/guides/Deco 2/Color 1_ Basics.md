@@ -3,17 +3,17 @@ title: Color 1 (Basics)
 weight: 801
 draft: false
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Colors are represented by Hue, Saturation, and Value.
 - Hue is normally the Main color, Saturation is a term for how pure the color is and Value is the brightness of the color.
 - The Color Wheel contains the colors of the rainbow and can help you to decide what colors you want to use.
 - A common method to render colored objects under colored light is to locate them as points on the color wheel and connect them with a line.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Basic Color Terms
 
 Colors are commonly represented by three concepts: **Hue, Saturation, and Value**. Let’s get a look at what these concepts mean.

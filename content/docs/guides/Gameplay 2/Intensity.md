@@ -3,16 +3,16 @@ title: Intensity
 weight: 711
 draft: false
 ---
-## Guide info
-Short: 3-5 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (3-5 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Intensity is the strength of your emotions or tensions during something.
 - You can make a level intense through more rapid movements, good pacing, and an effective song.
 - Intensity is best "felt" instead of met with specific criteria, so it's best to get playtesting and keep it within a proper context.
 
-** **
+{{< /callout >}}
 
+** **
 **Intensity** is defined as __strong emotions or tension within something__. Intensity can be a fairly abstract concept and it may be hard to describe, but usually this is often seen in a level's visuals or gameplay. Intense levels have a strong tone and high energy. 
 
 Overall, the best practice is to "feel" the intensity, rather than meet a certain criteria to create it. This is achieved best with feedback from others.
@@ -31,7 +31,7 @@ Intense levels can also be more memorable to the player. With emotional and inte
 
 Kinesiophobia by TheJosiahTurner meets these principles extraordinarily well, with an intense song, fast gameplay, and many fast movements from the layout and the player.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cUtPnX_wtgk" frameborder="0" allowfullscreen></iframe>
+{{< youtube cUtPnX_wtgk >}}
 
 # 3: Balancing and Implementing Intensity
 
@@ -47,9 +47,9 @@ WOW by Trusta and more slowly leads to intense spam in the first half of the lev
 
 Nhelv by SirGuillester, Notlsa, and Dienid constantly switches between intense and calm sections. The calm sections are used to build up into intense parts, while also serving to provide a quick break to the player.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O5Oug4mthTU" frameborder="0" allowfullscreen></iframe>
+{{< youtube O5Oug4mthTU >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WmqyZP4VP00" frameborder="0" allowfullscreen></iframe>
+{{< youtube WmqyZP4VP00 >}}
 
 
 

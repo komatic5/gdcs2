@@ -3,16 +3,15 @@ title: Stop
 weight: 341
 draft: false
 ---
-## Guide info
-Tiny: 1-3 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (1-3 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- The Stop trigger ends the action of an active trigger.
+- The Pause option puts the target trigger “on hold” and allows it to be resumed by the Resume option.
 
-- **Summary**
-- > • The Stop trigger ends the action of an active trigger.
-- > • The Pause option puts the target trigger “on hold” and allows it to be resumed by the Resume option.
+{{< /callout >}}
 
 ** **
-
 **1: Stop Trigger**
 
 The Stop trigger is the 4th trigger found in the trigger section in the editor. The Stop trigger halts any active triggers it targets. Any triggers with a finite duration, like Pulse, Color, or Move, can be stopped using it.

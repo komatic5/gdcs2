@@ -3,17 +3,17 @@ title: Move & Rotate
 weight: 308
 draft: false
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Move Trigger changes the location of objects. You can enter specific coordinates (e.g. move 3 blocks to the right, then 5 up), or use Move To Target to move one object onto another.
 - You can use the Lock to Player X/Y features to copy the player’s movements onto a group, and Lock to Camera X/Y to copy the camera’s movements.
 - The Rotate Trigger rotates objects around a center point. You can use Degrees to determine how many degrees objects will rotate, or Times 360 to determine how many full revolutions they should make.
 - Static objects (ones with hitboxes) will have their rotation locked no matter what.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Move Trigger
 
 The Move trigger moves objects using their X and Y coordinates. Positive X values move objects to the right, and positive Y values move them up. Negative values do the opposite.

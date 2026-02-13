@@ -3,17 +3,17 @@ title: Advanced Follow
 weight: 312
 draft: false
 ---
-## Guide info
-Short: 9-11 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (9-11 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Adv. Follow trigger allows you to create more complex movements for objects that regular Follow triggers can't do.
 - The trigger is split into 3 separate triggers which allow for more freedom.
 - It contains three follow modes which change the behavior of the objects.
 - The trigger is stackable, which means multiple triggers can affect the same objects.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: Basics
 
 Advanced Follow is split into three triggers:  **Advanced Follow**, **Edit Adv Follow**, and **Re-Target Adv Follow**. *Note that the last two triggers require an active advanced follow in the level to function.*

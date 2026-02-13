@@ -3,13 +3,14 @@ title: Light 3 (Value)
 weight: 808
 draft: false
 ---
-## Guide info
-Short: 5-7 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (5-7 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The concept of value is how light is distributed and placed in a scene, and is integral to making designs legible while also looking clean.
 - We understood how Value Structure functions.
 - We managed to take our knowledge from Value Structure and apply it to Lit form, to make colors stand out better than others.
+
+{{< /callout >}}
 
 ** **
 

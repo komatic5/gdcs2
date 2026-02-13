@@ -1,19 +1,18 @@
 ---
 title: Optimizing
 weight: 519
-draft: true
+draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- Optimizing refers to reducing the amount of objects used without affecting appearance, important for creating less lag when playing levels.
+- Some important efficiency skills to include are overlapping objects, using scaling (scalehacks), and using certain object archetypes to achieve something in a conservative manner.
+- Reducing objects can be done by creating a second copy of any group of objects that need to be optimize and using efficiency skills to reduce object count.
 
-- **Summary**
-- > • Object Efficiency refers to reducing the amount of objects used without affecting appearance, important for creating less lag when playing levels.
-- > • Some important efficiency skills to include are overlapping objects, using scaling (scalehacks), and using certain object archetypes to achieve something in a conservative manner.
-- > • Reducing objects can be done by creating a second copy of any group of objects that need to be optimize and using efficiency skills to reduce object count.
+{{< /callout >}}
 
 ** **
-
 **Object Efficiency**, or **Optimization**, refers to decreasing the object count while keeping the visuals the same. This is important because poor optimization can often make levels far more difficult to play, and much more laggy. In this guide, we'll go over how you can optimize your decoration.
 
 **1: Efficiency Skills**

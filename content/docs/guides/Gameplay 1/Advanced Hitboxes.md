@@ -3,16 +3,16 @@ title: Advanced Hitboxes
 weight: 409
 draft: false
 ---
-## Guide info
-Short: 7-9 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (7-9 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The game uses hitboxes that are not the same as the sprites that they represent.
 - The player has 3 hitboxes, with an extra one for slopes. The main Hitbox collides with mostly spikes and the floor/ceiling, the small - - Hitbox collides with solid objects, and the rotated Hitbox collides with everything that is rotated.
 - The game will check for collisions 4 times between processing, which are called sub-frames.
 
-** **
+{{< /callout >}}
 
+** **
 To preface things: Geometry Dash uses multiple **hitboxes** to register collision between the player and many hazards and gameplay elements. This same goes for collision blocks. 
 
 These hitboxes, from a game design standpoint, do not need to be accurate to the object’s texture, hence you get hitboxes like this:

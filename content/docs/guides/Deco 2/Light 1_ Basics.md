@@ -3,17 +3,16 @@ title: Light 1 (Basics)
 weight: 806
 draft: false
 ---
-## Guide info
-Short: 4-6 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- Light and Shadow are an important way to make your deco more convincing. They’re two sides of the same coin; shadows are created in the absence of light.
+- Hard Light occurs when light rays are parallel to each other, creating sharp shadows. Soft Light occurs when light rays scatter in many directions, making softer shadows.
+- You can use properties like Occlusion, Reflected Light, and Light Falloff to make your rendering look more realistic.
 
-- **Summary**
-- > • Light and Shadow are an important way to make your deco more convincing. They’re two sides of the same coin; shadows are created in the absence of light.
-- > • Hard Light occurs when light rays are parallel to each other, creating sharp shadows. Soft Light occurs when light rays scatter in many directions, making softer shadows.
-- > • You can use properties like Occlusion, Reflected Light, and Light Falloff to make your rendering look more realistic.
+{{< /callout >}}
 
 ** **
-
 **1: Basics**
 
 Light and shadows are something that you see everyday in your daily life. Light comes from things that emit light, such as the sun, candles, lamps, and your computer screen. Shadows are the result of light hitting an object.

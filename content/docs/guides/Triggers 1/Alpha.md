@@ -3,14 +3,14 @@ title: Alpha
 weight: 305
 draft: false
 ---
-## Guide info
-Tiny: 0-2 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (0-2 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Alpha triggers work by setting any group of objects to a set opacity and also the time it takes to fade those objects to said opacity.
 
-** **
+{{< /callout >}}
 
+** **
 In Geometry Dash, you can use Alpha Triggers as a way to set the **Opacity** of any object.
 
 Opacity refers to the transparency or visibility of any object *(ie. how “see-through” any object is)*. An opacity setting of `0.00` makes any object entirely invisible, and `1.00` makes any object fully visible.

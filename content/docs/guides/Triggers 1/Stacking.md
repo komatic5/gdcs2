@@ -1,18 +1,17 @@
 ---
 title: Stacking
 weight: 347
-draft: true
+draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- Trigger stacking is how different triggers with overlapping durations combine their effects together.
+- Different types of triggers will combine their effects with each other differently.
 
-- **Summary**
-- > • Trigger stacking is how different triggers with overlapping durations combine their effects together.
-- > • Different types of triggers will combine their effects with each other differently.
+{{< /callout >}}
 
 ** **
-
 **1: No Stacking**
 
 The following triggers cannot be stacked.

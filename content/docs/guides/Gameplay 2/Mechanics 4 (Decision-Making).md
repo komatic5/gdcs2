@@ -3,16 +3,16 @@ title: Mechanics 4 (Decision-Making)
 weight: 704
 draft: false
 ---
-## Guide info
-Short: 9-11 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (9-11 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Choices are an integral part of game design, making a game strategic and interesting
 - Interested choices strike a balance between giving enough information and leaving room for player preference
 - Tradeoffs and risk vs reward add nuance to choices and allow players to experiment with different playstyles
 
-** **
+{{< /callout >}}
 
+** **
 Changed the channel name: Mechanics 4 (Decision-Making)
 
 Have you ever wondered how game designers make compelling decisions that leave you thinking for hours on end? Maybe you’ve spent a lot of time carefully optimizing your gear and accessories, or maybe you were stumped by a puzzle that ended up clicking in a satisfying way. These are examples of decision making, which we’ll cover the fundamentals of in this guide.

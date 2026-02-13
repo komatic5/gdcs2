@@ -3,15 +3,15 @@ title: GP Options & Player Control
 weight: 332
 draft: false
 ---
-## Guide info
-Tiny: 2-4 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Tiny** (2-4 minutes)
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The Options Trigger is essentially a toggle trigger for player related actions. To toggle them back on or off use another one with opposite settings.
 - The Player Control trigger stops you from performing a certain action until you perform it again.
 
-** **
+{{< /callout >}}
 
+** **
 The Options trigger lets you control the player's actions and controls, but the changes are permanent until you use another Options trigger to disable those options. Think of this as a complex toggle trigger.
 
 - **Streak Additive:** Toggles blending of player trail and particles.
@@ -35,9 +35,9 @@ To have a better understanding of what this actually means, take a look at these
 Chromaside by qalli
 SpeedTek by G4lvatron
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/096FwIbfIOE" frameborder="0" allowfullscreen></iframe>
+{{< youtube 096FwIbfIOE >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tEPKl-QUmNU" frameborder="0" allowfullscreen></iframe>
+{{< youtube tEPKl-QUmNU >}}
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1k8UunbEVgUUalT8F4SGeUcCmarlgwTJM/preview?usp=drivesdk></iframe></div>
 

@@ -3,11 +3,9 @@ title: Bossfight Design
 weight: 721
 draft: false
 ---
-## Guide info
-Long: 30-34 minutes
+{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Long** (30-34 minutes)
 
-
-- ## **Summary**
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Bossfights have three main goals: provide thrilling action, make the player think critically, and help the player learn the boss effectively.
 - Decision-making is one of the most important parts of boss design, which you can emphasize by mixing the concept of risk vs reward into your boss.
 - You can help the player learn the boss more easily by making sure the boss is responsive and gives enough visual information to the player.
@@ -18,8 +16,9 @@ Long: 30-34 minutes
 - Turn-based or strategy bosses are usually based around a mechanic that limits the player in some way, forcing the player to think around the obstacle.
 - Strategy bosses have a learning curve that focuses on trial and error, meaning you need to make it clear to the player if they’re doing something wrong or right.
 
-** **
+{{< /callout >}}
 
+** **
 # 1: What makes a Bossfight?
 
 This can be interpreted in many ways, but it usually revolves around how you present, or “frame” the boss. **Framing** is __how you position the boss in relation to its surroundings__. The framing of an enemy will change how the player perceives the enemy.
@@ -42,7 +41,7 @@ If you look at almost all current GD bossfights, they usually consist of bullet 
     
 Bosses that follow these principles end up being more enjoyable to play. In BOSS RUSH by GDTicLos, the Illuminati bossfight utilizes terrain to create interesting movement. You would need to navigate the area, dealing with platforms and gravity rather than just floating around with a jetpack, while dodging attacks and catching up with the boss. This adds complexity that isn’t just a lightshow, and gives the bossfight more thrill. All the attacks are clear and intuitive as well. While this is only one in-game example, there are plenty of bosses outside of GD that are better in terms of functionality than those in GD, so those are worth looking at for inspiration or reference.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SPXmmLx1Pp0" frameborder="0" allowfullscreen></iframe>
+{{< youtube SPXmmLx1Pp0 >}}
 
 The principles provided earlier in the guide should be seen as guidelines rather than rules. Bosses can serve tons of different purposes depending on the story or target audience, so it’s not necessarily needed to have a quick-to-learn boss at the end of the game designed purposely for people that love learning chaotic and messy bosses.
 
@@ -94,11 +93,11 @@ Before starting this section, you’ll need to know what “simple” even means
 
 First off, let’s cover the Watcher Knights. This is a difficult and intense boss which requires constant awareness of your surroundings and may sometimes overwhelm you. However, despite saying that the boss may overwhelm you, the concepts of all the attacks are as simple as you can get. There are three attacks that each Watcher Knight may use: a roll, a jump, and a swing. All of these attacks can be described in only ONE word, yet the final product does not feel simple at all.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SnBU0UOqq88" frameborder="0" allowfullscreen></iframe>
+{{< youtube SnBU0UOqq88 >}}
 
 For the next example, we’ll be looking at the Soul Master boss. This boss is a relatively complicated bossfight compared to others, but it still wouldn’t take long to explain. The first phase has 4 attacks; a run/dash, a projectile that tracks you, a dive that sometimes fakes you out, and a slow float with projectiles circling the boss. Outside of the attacks, the boss teleports around as well. All of these attacks could be explained in about only 3 keywords, (for example “float, projectile, circling” for the last attack), and some could even be explained in just one.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XLBhKzHzdlM" frameborder="0" allowfullscreen></iframe>
+{{< youtube XLBhKzHzdlM >}}
 
 ## Why is simple good?
 There are some reasons why simple bosses are good, and they all relate to the core factors we talked about in the beginning (thinking innovatively and conveying information):
@@ -110,14 +109,14 @@ Let's look at an example from Hollow Knight. Before I get started, keep in mind 
 
 All of this is to say that you don’t need complicated bossfights for them to be good. You don’t need to make flashy and unpredictable attacks to make your bossfight satisfying. If you just focus on the core concepts, then your boss will do well. Although simple bosses are good, you can still pull off complex bosses.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2oOVXhx6dHk" frameborder="0" allowfullscreen></iframe>
+{{< youtube 2oOVXhx6dHk >}}
 
 ## When is complex good?
 Overall, simple bosses are better than complex bosses, but in case you want to bend the rules a bit, then this small subsection will go over what to keep in mind when making complex bosses. For example, a boss at the end of the game intended for dedicated players could totally be complex as dedicated players are completely fine with spending time learning a boss, and players should already know the game’s mechanics at that point. You'll be able to mix in quick decision-making if you assume that your players are good and will be able to figure out the openings. In general, if you want a complex attack that still produces quick thinking, just make sure to give it options. 
 
 An example of a good complex bossfight is the Alvess boss from Afterimage. This boss doesn’t use the usual “dash, jump, projectile, dive, etc” attacks, instead using massive walls of fire and weird jumps that you probably wouldn’t expect. It’s the type of boss that makes you think, “What the hell is going on?” However, this boss comes really late into the game and by now players would be experienced enough to counter the complex attacks. It may be hard to learn, but it doesn’t matter if your target audience is towards people who are okay with so-called “learny” bossfights.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rl-AmtNWJWc" frameborder="0" allowfullscreen></iframe>
+{{< youtube Rl-AmtNWJWc >}}
 
 ## How to keep it interesting?
 All this time I’ve been talking about simple bosses, but how do you actually make something simple turn into an interesting attack? A simple attack is an attack that has a simple concept attached to it, like a dash. There are factors to this that I haven’t mentioned yet; how fast is the dash? How far does it go? Are you able to jump through it or dodge it via other means? If I wanted to make a dash attack that was big and impending, I would make the hitbox big so that you would have to find a way to go over it. If I wanted to make the dash attack require quick reflexes to dodge, I would make the dash fast and go far so that you wouldn’t be able to outrun it. There are a lot of factors you can experiment with which aren’t included in the concept and give you various different results.
@@ -152,9 +151,9 @@ All of the bosses below have a simple concept, see if you can define them.
 
 In addition to making sure the boss concept is easily explainable, you still need to make sure the concept is unique as well. The concept may be well defined, but if they’re too similar, they start to blend together. As another example, let’s look at the Gruz Mother and Vengefly King bosses from Hollow Knight. These bosses can be defined simply, as shown below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WqwuVjYxHnQ" frameborder="0" allowfullscreen></iframe>
+{{< youtube WqwuVjYxHnQ >}}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IwuCi5YiMKA" frameborder="0" allowfullscreen></iframe>
+{{< youtube IwuCi5YiMKA >}}
 
 *(Gruz Mother, bigger version of a gruzzer)*
 
@@ -181,7 +180,7 @@ You can have a completely unique boss concept but the impact will still be heavi
 
 To start off, we’ll look at the Watcher Knights boss. I mentioned the Watcher Knights earlier and how they were a really good boss, and it holds up here as well. Let’s start by identifying their concepts. The Watcher Knights are bugs that roll around and swarm the player. This concept is exemplary as it’s unique and also not that hard to understand.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SnBU0UOqq88" frameborder="0" allowfullscreen></iframe>
+{{< youtube SnBU0UOqq88 >}}
 
 Now let’s look at the attacks. All of the Watcher Knights have 3 attacks; slash, roll, and roll jump. The Watcher Knights’ attacks obviously have a theme to them: overwhelm the player and swarm them. This is shown by how there are always multiple Watcher Knights on the screen, and how their rolls come from all over the place, making sure the player always has to keep track of the bosses. The attacks work in tandem, not only to keep the boss interesting, but to keep the boss feeling cohesive and unique. These attacks aren’t too common within other bosses, making the Watcher Knight stand out.
 
@@ -189,11 +188,11 @@ For the next boss, we’ll analyze Nosk. As you can see by the intro, it’s a c
 
 The attacks fit this concept extremely well. Nosk has a big hitbox, especially compared to the player, and runs around fast enough that it may overwhelm you. Nosk sometimes spits acid everywhere, which heavily limits the space the player has to stand, once again pressuring the player. These attacks make the boss feel a lot more menacing and plays really well into the boss’s identity (however in-game there’s a cheese for the boss so it doesn’t really play out as well). Although there are a lot of other bosses that spit acid and run around, the special factors to the attacks (Nosk’s hitbox, the checkered pattern to the acid spots) are what make them continue to be unique and successful.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mJqOOSDspvk" frameborder="0" allowfullscreen></iframe>
+{{< youtube mJqOOSDspvk >}}
 
 For the last boss, we’ll look at God Tamer, a boss that actually doesn’t pull off its attack synergy well. The God Tamer is a warrior who has tamed a beast to use in battle under her control, which is a unique concept that gives her an identity. The God Tamer only has a jumping attack which lands with a slash, and the beast has two attacks: spitting acid and rolling at the player. After the roll, the beast bounces back and lands on where the player last was. The roll affects the ground area, making the player jump into the air or commit to a dash, and the bounce controls the air, making the player not stay too high up. The acid controls the player’s spacing and keeps the player aware of where they land, and the God Tamer’s jumps constantly keep the player moving and introduces another factor to keep track of.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cFRIW1F931M" frameborder="0" allowfullscreen></iframe>
+{{< youtube cFRIW1F931M >}}
 
 These attacks limit the player’s movements and require the player to maneuver around masterfully, fitting for a boss that was able to tame that massive beast. Now, after I used the Watcher Knights and Nosk as an example before, you might be able to see similarities between the God Tamer and these two bosses. The rolls of both the God Tamer and the Watcher Knights are exactly the same, and the God Tamer even has the bounce that matches with the Watcher Knight’s jump. The acid spit on the other hand has the same pattern and function as Nosk’s acid spit, limiting ground movement and making sure the player is aware of their surroundings. The God Tamer feeds off of the successes of other bosses, and rather than learning what the Watcher Knights and Nosk do well and changing, it ends up being too similar in attacks. The boss might work as a standalone boss but in a game full of other bosses, it ends up lacking its own identity.
 
@@ -222,7 +221,7 @@ Pretty early on, Sweetheart makes herself happy and makes your whole team angry,
 
 In addition to that, Sweetheart has a variety of strong attacks that hit every party member. These attacks usually one-shot the entire team assuming that Sweetheart is happy and your team is angry. This is a clear example of feedback; you instantly get killed if you play incorrectly, and so, hopefully, on the next attempt you’ll learn that you would need to make your team sad.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2D1VBDjamoA" frameborder="0" allowfullscreen></iframe>
+{{< youtube 2D1VBDjamoA >}}
 
 
 
