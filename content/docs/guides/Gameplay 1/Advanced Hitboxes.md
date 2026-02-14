@@ -13,7 +13,7 @@ draft: false
 {{< /callout >}}
 
 ** **
-To preface things: Geometry Dash uses multiple **hitboxes** to register collision between the player and many hazards and gameplay elements. This same goes for collision blocks. 
+To preface things: Geometry Dash uses multiple **hitboxes** to register collision between the player and many hazards and gameplay elements. This same goes for collision blocks.
 
 These hitboxes, from a game design standpoint, do not need to be accurate to the object’s texture, hence you get hitboxes like this:
 
@@ -48,7 +48,7 @@ This hitbox is also sometimes called the AABB hitbox (Axis Aligned Bounding Box)
 
 ## Properties
 
-- This Hitbox has **Subframes**: __4 additional checks between every 2 frames of processing__ that prevent the player from phasing through objects on low FPS. 
+- This Hitbox has **Subframes**: __4 additional checks between every 2 frames of processing__ that prevent the player from phasing through objects on low FPS.
 - This hitboxes rightmost edge is used to calculate snapping, known as the snap bug, on the X axis.
 - This hitbox is also used for snapping on the Y axis, in scenarios where the player falls slightly short of touching the surface of a block. The conditions to trigger a Y snap are as follows:
  - The player’s Y velocity is 0 or it points towards the block
@@ -132,11 +132,6 @@ Dynamic blocks detect collisions under the condition that they are moving, which
 Moving platforms use the hitboxes of the group they affect and apply the math assigned to it every frame until the movement ends. Since this is the case, moving objects do not need subframes, it would be unnecessary processing that could lead to performance issues.
 
 A way to use this mechanic is to move objects within one frame. To do this, place any object with a hazard or platform hitbox and assign a group to it. Then, place a move trigger set to move a large distance with 0 duration. The result should be that the player is not flung or killed from the moving obstacle.
-
-
-## Credits
-
-
 
 ## Credits
 Created by @MateussDev and @NotAModerator

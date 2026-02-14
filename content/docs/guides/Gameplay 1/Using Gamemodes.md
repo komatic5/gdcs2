@@ -32,7 +32,7 @@ The first thing to understand with gamemodes is __their properties and how to us
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1D6pKF9VB00QZU0PVsuzQi-5yfaign5Hc/preview?usp=drivesdk></iframe></div>
 
-Cube is the simplest gamemode. Since it always moves on a preset path, it’s incredibly simple to make gameplay with it in any environment, making it a good jack of all trades. Its path is responsive enough for players to intuitively use it, but not so snappy that it’s incredibly limiting to make gameplay with. Due to its simplicity, the Cube may need to rely on orbs or portals to function interestingly, a tradeoff you may have to balance. 
+Cube is the simplest gamemode. Since it always moves on a preset path, it’s incredibly simple to make gameplay with it in any environment, making it a good jack of all trades. Its path is responsive enough for players to intuitively use it, but not so snappy that it’s incredibly limiting to make gameplay with. Due to its simplicity, the Cube may need to rely on orbs or portals to function interestingly, a tradeoff you may have to balance.
 
 **Pros & Cons**
 - Versatile
@@ -55,20 +55,20 @@ This gamemode is typically quite floaty, but you can make good use of it in fast
 {{< youtube Wt76QZqF-os >}}
 
 **Pros & Cons**
-- Uses holds and releases in the most varied ways 
+- Uses holds and releases in the most varied ways
 - Works well in slower parts where an immediate response isn’t necessary
 - Requires the most player control and understanding, difficult to fully understand
 - Smooth and floaty
 ## Ball
 - Click to swap gravity
-- No air control 
+- No air control
 - Path when clicking is always the same
 - Dies when hitting the side of a block
 - Path through the air gets steeper as speed decreases
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1cfrDo4ReuL6mgpS6LMBQfwCRvl5KZAOl/preview?usp=drivesdk></iframe></div>
 
-The Ball isn’t as snappy as Cube, but it’s still relatively fast. It’s extremely simple and acts like a blue orb, yet that alone is enough to be really interesting. Since its movement is the same each time, it’s predictable and repetitive. Unlike the Cube though, you can click on platforms much faster. You don’t need to wait for the Ball to fall down or stabilize or anything as the movement is basically a straight line, giving more freedom when designing gameplay. 
+The Ball isn’t as snappy as Cube, but it’s still relatively fast. It’s extremely simple and acts like a blue orb, yet that alone is enough to be really interesting. Since its movement is the same each time, it’s predictable and repetitive. Unlike the Cube though, you can click on platforms much faster. You don’t need to wait for the Ball to fall down or stabilize or anything as the movement is basically a straight line, giving more freedom when designing gameplay.
 
 **Pros & Cons**
 - Smooth, but snappy enough to work in fast environments
@@ -149,7 +149,7 @@ This IS the snappiest gamemode in the game, hands down. The instant teleportatio
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1KdbKUPQeXGSKNhSS5EUBs72EuDFmRejH/preview?usp=drivesdk></iframe></div>
 
-The Swing is the least responsive of all the gamemodes; it will take a while for you to actually see that you changed gravity and are going the other direction. Some argue that this makes Swing the worst gamemode, while others believe it’s unique because of it. The Swing requires an understanding of the physics as well as control over your gravity, and the movement of the gamemode allows for very curvy gameplay. As most recent gamemode, it’s unfamiliar to a majority of the playerbase. Due to the obviously different mechanics from the Ship, controlled gameplay shaped around the movement of the Swing will work a lot better than trying to substitute it into Ship parts. 
+The Swing is the least responsive of all the gamemodes; it will take a while for you to actually see that you changed gravity and are going the other direction. Some argue that this makes Swing the worst gamemode, while others believe it’s unique because of it. The Swing requires an understanding of the physics as well as control over your gravity, and the movement of the gamemode allows for very curvy gameplay. As most recent gamemode, it’s unfamiliar to a majority of the playerbase. Due to the obviously different mechanics from the Ship, controlled gameplay shaped around the movement of the Swing will work a lot better than trying to substitute it into Ship parts.
 
 **Pros & Cons**
 - Extremely smooth and unresponsive
@@ -176,7 +176,7 @@ For example, in a very fast part that swaps gamemodes twice a second after each 
 Ultimately, the *how* is a lot more nuanced as there are a nearly limitless amount of ways to use gamemodes. A lot of these uses will come down to experience and the inspiration sources you use. The rest of this section will go over common techniques, unique interactions, some tips, and some examples for how to use each gamemode.
 
 ## Cube
-As mentioned earlier, Cube is reliant on orbs due to its simplicity. We don’t want to *spam* orbs though, because orb chains are inconsistent and it’ll diminish the value of the gamemode. Thus, try not to use orbs unless you need to; they can emphasize or mix things up, but try to make use of pads, falling, gravity changes, and even things like head hitters to make things interesting. 
+As mentioned earlier, Cube is reliant on orbs due to its simplicity. We don’t want to *spam* orbs though, because orb chains are inconsistent and it’ll diminish the value of the gamemode. Thus, try not to use orbs unless you need to; they can emphasize or mix things up, but try to make use of pads, falling, gravity changes, and even things like head hitters to make things interesting.
 
 The Cube takes good advantage of holding after orbs, as holding after a black orb or a blue orb straight onto a platform will make the player automatically jump. This can make the Cube more unique, but can also be buggy at times so use it well. When holding before an orb, you’ll automatically click it when making contact.mKeep in mind that the yellow orb functions exactly like a normal jump, allowing mixups, but it can also make the yellow orb feel less unique.
 
@@ -201,7 +201,7 @@ This is a small Ship part from the level earlier. I chose the gamemode here beca
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1fu9m8u0WgYOfVWo30EB2WOcCJOnSIWoP/preview?usp=drivesdk></iframe></div>
 
 ## Ball
-Ball, as mentioned before, is good as an in-between of snappiness and smoothness, and it can function in both environments. Because you swap gravity on clicks, you can make a lot of interesting interactions with a lot of control over what you want the player to do. 
+Ball, as mentioned before, is good as an in-between of snappiness and smoothness, and it can function in both environments. Because you swap gravity on clicks, you can make a lot of interesting interactions with a lot of control over what you want the player to do.
 
 You should generally try to keep an even blend of normal clicks and orbs. Try to focus on creating interesting and fun patterns to play; the repetition of its patterns can be both impactful and boring depending on how you use it. The blue orb functions exactly the same as a Ball click, which you can use for the same function but in midair.
 
@@ -267,7 +267,7 @@ The swing is the slowest of all gamemodes, which is why I thought it would fit a
 # 4: Conclusion
 
 In the end, this guide is still just a beginners guide for you to understand how to choose and use your gamemodes. As time goes on and you get more and more experienced, you will be able to make intentional choices based on your own gameplay ideas, and use them effectively.
-One common misconception you may have from this guide is that every part must have a *single standalone gamemode* in it. This is not true at all; a part can have as many gamemodes as you want,  as long as you have a good reason for it and you’re actually utilizing the gamemodes. 
+One common misconception you may have from this guide is that every part must have a *single standalone gamemode* in it. This is not true at all; a part can have as many gamemodes as you want,  as long as you have a good reason for it and you’re actually utilizing the gamemodes.
 
 The part below is a video of me using multiple gamemodes in a single part of the song, yet it still works well because I’m using them intentionally. I have a reason for each gamemode and I’m using them for that reason; notice as well that I’m using ball, ufo, ship (with orbs), cube, and spider, all gamemodes that work well with high speed, as well as robot at the end to emphasize the ending and some clicks. Admittedly I wouldn’t do this in an actual level because the song didn’t change much between this and the previous Spider, so this is purely for demonstration purposes.
 
@@ -279,7 +279,7 @@ Lastly, here’s a video of the entire level if you’re interested in seeing ho
 
 
 
-**Video: **https://youtu.be/Se2KWB1XgfE?si=tkpneccEJD-VfMcv
+**Video:** https://youtu.be/Se2KWB1XgfE?si=tkpneccEJD-VfMcv
 
 
 

@@ -29,7 +29,7 @@ Its features are as follows:
 
 None
 
-In the top right corner of the menu, there's a tablelist button that leads to another menu. 
+In the top right corner of the menu, there's a tablelist button that leads to another menu.
 
 This menu lets you determine which action needs to occur in order for your GroupID to activate. Fortunately, each checkbox has an explanation next to them so feel free to explore.
 
@@ -39,7 +39,7 @@ Here is an example of what you can make with this trigger:
 
 {{< youtube q_29LgSGSM4 >}}
 
-In this particular level, the player always moves forward at a certain speed. By pressing a corresponding key we either turn left or right. Upon pressing W or ^ we dash forward. This trigger is also used at a start to choose between different set of controls: **A W D** or **< ^ >**
+In this particular level, the player always moves forward at a certain speed. By pressing a corresponding key we either turn left or right. Upon pressing W or ^ we dash forward. This trigger is also used at a start to choose between different set of controls: **A W D** or **< ^ >**.
 
 
 

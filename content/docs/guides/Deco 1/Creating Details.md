@@ -24,7 +24,7 @@ The same way that you know what a solved Rubiks’ cube looks like before trying
 
 Starting from your main idea, you need to find inspiration based on it. This will give you ideas for specific elements to include. For example, you may choose to create a cake inside a wedding-themed level. For a more abstract idea like “Glow” or “Modern” you should look at more abstract media like visual effects or motion graphics.
 
-After you have ideas for specific elements, you should search for references based on them. Get as many references as possible; the more you have, the more detail ideas you can get and the more original your end result will be. Here I chose to search for wedding cakes on Google as I’ve already decided to use those in my level. If the reference images which show up feel too difficult to use, try adding “drawing” to your keyword, such as “wedding cake drawing”. 
+After you have ideas for specific elements, you should search for references based on them. Get as many references as possible; the more you have, the more detail ideas you can get and the more original your end result will be. Here I chose to search for wedding cakes on Google as I’ve already decided to use those in my level. If the reference images which show up feel too difficult to use, try adding “drawing” to your keyword, such as “wedding cake drawing”.
 
 Finally, it’s time to actually reference; choose a specific detail or property from each reference image and use the skills from the last guide to remake that. You should now have successfully referenced an image. I strongly encourage you to combine multiple references and ideas when decorating, as it’ll help make your work more unique.
 
@@ -138,7 +138,7 @@ But overall, styles are arbitrary limitations. They’re just a visual thing whi
 
 ## Return To The [Table of Contents](https://discord.com/channels/414295025883545600/1233710767895740456/1233710767895740456) here
 
-**Video: **https://youtu.be/3ofZI82lKQ8?si=a5bXL1ilq24c9C_N
+**Video:** https://youtu.be/3ofZI82lKQ8?si=a5bXL1ilq24c9C_N
 
 
 

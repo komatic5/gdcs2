@@ -16,7 +16,7 @@ Short: 8-10 minutes
 If you read the last guide, you should now have a few level ideas. If you consider ideas as the *destination* you're heading towards, a **level plan** is __the path you'll take to get there__. Like a road trip, there are many factors to consider before setting out on your creating journey, like the following:
 
 - What **intermediate steps** should I include while building?
-- What **resources **should I use, and how should I **plan my route**?
+- What **resources** should I use, and how should I **plan my route**?
 - How do I account for **detours**?
 
 ## Secondary Ideas
@@ -55,7 +55,7 @@ By this point *your main idea should be fairly specific*, as discussed in the la
 ## Resource Allocation
 Resources answer the "how" of planning a level. On a road trip you might bring a GPS, food & drink, and enough gasoline in your car to make it to your destination. In GD, these resources are **IDs**, **layers**, and **objects**.
 
-Usually you don't need to explicitly plan these to the same extent as your ideas. Executing your ideas comes with experience and with it, you'll learn which resources you prefer to use when. For example, I and many people use **Group 1** for invisible objects, but some people prefer keeping their **Color 1 **as pure black while I use **Color 2** as pure black and leave Color 1 as white.
+Usually you don't need to explicitly plan these to the same extent as your ideas. Executing your ideas comes with experience and with it, you'll learn which resources you prefer to use when. For example, I and many people use **Group 1** for invisible objects, but some people prefer keeping their **Color 1** as pure black while I use **Color 2** as pure black and leave Color 1 as white.
 
 Depending on how complex your level plan is, you'll need to set aside more groups and color channels for specific, universal purposes. You may also need to *document your resource uses* within the level, or in a separate space. The more documentation you have, the slower the actual building process can become, but the easier it gets to take breaks from your level and resume work quickly. This is especially true of complex levels with hundreds or thousands of moving parts.
 
@@ -73,16 +73,16 @@ The **Tradeoff Triangle** is a good representation of how tradeoffs work. With i
 
 More broadly, you can describe tradeoffs in the same way as a scale. If you put too much weight on one part, the other parts will suffer. You can emphasize multiple parts at once, and that'll hurt whichever qualities remain. But at the same time, if you try to make everything completely balanced, you end up with a mid level.
 
-The most obvious example of this is the wait for **Update 2.2**. Robtop promised hundreds of features in the update, which initially was promised to be a "small update" after the year-long wait for the last one. He failed to prioritize quality over quantity, trying to add as many features into the update as possible – leading to a *seven-year wait* time and *countless bugs* upon release. A popular sentiment when the update finally came out was that people would have waited longer for an update with less bugs in it, which I personally agree with. 
+The most obvious example of this is the wait for **Update 2.2**. Robtop promised hundreds of features in the update, which initially was promised to be a "small update" after the year-long wait for the last one. He failed to prioritize quality over quantity, trying to add as many features into the update as possible – leading to a *seven-year wait* time and *countless bugs* upon release. A popular sentiment when the update finally came out was that people would have waited longer for an update with less bugs in it, which I personally agree with.
 
-To avoid outcomes like this, you must **limit your scope and prioritize what matters**. You cannot have everything at once; even if you can make a "perfect" level in a month with good quality and great optimization, you may still neglect other aspects of your life which isn't a tradeoff many can make. Your level's **scope **– __the number of features you want to implement, along with your ambitions__ – needs to match your skill level and amount of free time.
+To avoid outcomes like this, you must **limit your scope and prioritize what matters**. You cannot have everything at once; even if you can make a "perfect" level in a month with good quality and great optimization, you may still neglect other aspects of your life which isn't a tradeoff many can make. Your level's **scope** – __the number of features you want to implement, along with your ambitions__ – needs to match your skill level and amount of free time.
 
 There are two helpful ways to set your scope and prioritize when making plans: the **MoSCoW method** and **Occam's Razor**. MoSCoW is an acronym for the following:
 
-- **Must **haves,
-- **Should **haves,
-- **Could **haves,
-- **Would **haves.
+- **Must** haves,
+- **Should** haves,
+- **Could** haves,
+- **Would** haves.
 
 When making a level, prioritize your must-have features first, then your should-haves, and so on. If you find yourself struggling to implement a non-essential feature, consider taking a break or scrapping it for a different feature. If you can't implement a must-have, consider how necessary it is for your level, and use Occam's Razor to assess your work. That is a topic for the [next guide](https://discord.com/channels/414295025883545600/1083454218435842129/1083454218435842129) though, where it'll be covered in more detail.
 

@@ -18,7 +18,7 @@ The Options trigger lets you control the player's actions and controls, but the 
 - **Hide Ground:** Hides the ground.
 - **Hide MG:** Hides the Middle Ground.
 - **Hide P1 or P2:** Hides the corresponding player *sort of like the hide player trigger* :HidePlayer:.
-- **Disable P1 or P2 Controls: **Toggles a corresponding player's controls. *Useful during cutscenes or dialogues*.
+- **Disable P1 or P2 Controls:** Toggles a corresponding player's controls. *Useful during cutscenes or dialogues*.
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1heqpeciu1Rf7bO_RA1raePDNNOfzBN8x/preview?usp=drivesdk></iframe></div>
 

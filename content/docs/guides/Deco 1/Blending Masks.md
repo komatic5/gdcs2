@@ -7,11 +7,11 @@ draft: false
 
 # 1: How Blending Works
 
-Every color is composed of three primary colors:  red, green, and blue (RGB). The intensities of these colors depend on their number values, which range from 0 to 255. For example, pure red would have an RGB value of (255, 0, 0), or 255 red, 0 green, and 0 blue. 
+Every color is composed of three primary colors:  red, green, and blue (RGB). The intensities of these colors depend on their number values, which range from 0 to 255. For example, pure red would have an RGB value of (255, 0, 0), or 255 red, 0 green, and 0 blue.
 
 The process of **additive blending**, or simply **blending** (as it is referred to in Geometry Dash), __takes the RGB values from two colors and adds them together to produce a new color__ with a new set of RGB values. As an example, using additive blending to combine red (255, 0, 0) and blue (0, 0, 255) produces magenta (255, 0, 255).
 
-Since RGB values cannot exceed 255, if a pure red block were to be added onto another red block, the end result would produce pure red. 
+Since RGB values cannot exceed 255, if a pure red block were to be added onto another red block, the end result would produce pure red.
 
 Although starting with pure RGB values is an important part of blending, there is no default way to select pure blue or green in the editor’s color slider. A workaround is to start with red through the HSV slider, copy the red to another color channel, and change the hue of that color: `+120` for green, `–120` for blue. Additionally, `-60` produces magenta, `+60` produces yellow, and `±180` produces cyan.
 
@@ -181,7 +181,7 @@ It's important the blending colors are semi-transparent, because if they were fu
 
 ## Return To The [Table of Contents](https://discord.com/channels/414295025883545600/1104661567502549113/1104661567502549113) Here
 
-**Video: **https://youtu.be/P2r4Z5kbx7M?si=OXRptoIaYPXfi597&t=1274
+**Video:** https://youtu.be/P2r4Z5kbx7M?si=OXRptoIaYPXfi597&t=1274
 
 
 

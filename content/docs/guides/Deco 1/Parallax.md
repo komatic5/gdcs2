@@ -21,7 +21,7 @@ draft: false
 
 Basic parallax is described in the Making Backgrounds guide, and is demonstrated by [this video](<https://www.youtube.com/watch?v=2z4OTRFuLP8>). The background moves slower than the gameplay layer, while the foreground moves faster than the gameplay layer.
 
-At a high level, parallax can be used to figure out how far away things are - this is often applied for astronomy, such as calculating the distance between the earth and stars. 
+At a high level, parallax can be used to figure out how far away things are - this is often applied for astronomy, such as calculating the distance between the earth and stars.
 
 In this guide, however, we’ll focus on two theoretical concepts to learn how to create far more interesting environmental movements: reference point and relative motion.
 
@@ -29,7 +29,7 @@ In this guide, however, we’ll focus on two theoretical concepts to learn how t
 
 __Your parallax is based around this **reference point**__. Objects further from the reference point will appear to move faster, while objects that are near will appear to move slower.
 
-If the reference point is infinitely far away, then it practically doubles as a vanishing point. Everything will move in the same direction, and something infinitely far away will appear to be stationary. This is the way things will appear when you’re moving in a perfectly straight line and looking to your side. Observe this the next time you’re [in a car.](<https://youtu.be/SgmwyoRCHxM?si=CKmHtUYI7sZOLEm7&t=4>) 
+If the reference point is infinitely far away, then it practically doubles as a vanishing point. Everything will move in the same direction, and something infinitely far away will appear to be stationary. This is the way things will appear when you’re moving in a perfectly straight line and looking to your side. Observe this the next time you’re [in a car.](<https://youtu.be/SgmwyoRCHxM?si=CKmHtUYI7sZOLEm7&t=4>)
 
 If the reference point is finitely far away, everything in front of it will move in one direction. Everything behind it will move in the other direction. This is the way things appear when you’re moving in a circle/curve around a specific point. For example, try spinning around in one place and you'll notice that things closer to you appear to move slower.
 
@@ -61,7 +61,7 @@ Make sure your layers are CORRECT. When the camera moves in one direction, every
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1tgzhVJ5KWevu-bAz2gI_79c2KY1cMxHN/preview?usp=drivesdk></iframe></div>
 
-When making objects that need additional movements besides their parallax layer’s movement, make sure those movements have context. If you have something like a train, then make sure the tracks and the layers around those tracks move correctly. 
+When making objects that need additional movements besides their parallax layer’s movement, make sure those movements have context. If you have something like a train, then make sure the tracks and the layers around those tracks move correctly.
 
 Similarly, if you have objects that are moving freely, have multiple of them on different layers to provide context for how fast their movements actually are.
 ## Types of Parallax Setups
@@ -81,7 +81,7 @@ Similarly, if you have objects that are moving freely, have multiple of them on 
 ## Setup
 
 1. Take an object which you’ll use as your reference point. In 2.1, lock it to Player X and use the Camera Simulation mechanism to lock it to Camera Y; in 2.2, lock it to Camera X and Y. Relative to the camera, this object will not move.
-2. Use follow triggers :Follow: and X/Y mods to copy its movements. 
+2. Use follow triggers and X/Y mods to copy its movements.
  - An X/Y mod between 0 and 1 will make a background movement
  - A negative multiplier will signify foreground movement
  - A multiplier greater than 1 will move those objects backwards (only use this for rotations around a point).

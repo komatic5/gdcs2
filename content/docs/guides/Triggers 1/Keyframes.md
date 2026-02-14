@@ -19,9 +19,9 @@ In Geometry Dash, **keyframes** transform 3 properties: Movement, Rotation and S
 
 A group of linked keyframes is called an **animation**.
 
-The keyframe system is composed of 2 different triggers: 
-- the keyframe trigger, which works as a keyframe
-- the keyframe animation trigger, which applies an animation on a group of objects
+The keyframe system is composed of 2 different triggers:
+- The keyframe trigger, which works as a keyframe
+- The keyframe animation trigger, which applies an animation on a group of objects
 
 None
 
@@ -39,7 +39,7 @@ When playing the level, we will notice that our object moves in the same pattern
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1AVLqIThdrypi4VyvfRrKTrxlup9wTf0l/preview?usp=drivesdk></iframe></div>
 
-Notes: 
+Notes:
 - Horizontal and vertical warping is not supported in the keyframe system. Instead, the target will rotate and scale based on the theoretical rotation and scale properties of the warped keyframe:
 
 None
@@ -106,8 +106,8 @@ None
 These settings can help with the editor workflow, like changing the appearance of keyframes inside the editor.
 
 **LineOpacity**: Changes the opacity of the line connecting this keyframe with the next one, with 0 being fully invisible and 1 being fully opaque.
-**Auto layer**: Copying a keyframe will automatically layer it on top of the previous keyframe and below the next .
-Note: this option does not function as of 2.205/2.206, however, Dup Anim automatically layers keyframes correctly, this can be a temporary solution to Auto layer).
+**Auto layer**: Copying a keyframe will automatically layer it on top of the previous keyframe and below the next.
+Note: this option does not function as of 2.205/2.206. However, Dup Anim automatically layers keyframes correctly, this can be a temporary solution to Auto layer.
 **Select all**: Selects all keyframes in an animation.
 **Dup Anim**: Copies the entire animation without linking it to the original.
 

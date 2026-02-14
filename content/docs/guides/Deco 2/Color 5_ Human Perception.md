@@ -20,17 +20,17 @@ Before diving into color blindness and tetrachromacy, let’s talk about how the
 
 This is a diagram of an eyeball and how it takes in the visual information of an object.
 
-The areas of interest here are the *retina *and the *pupil*. The pupil is responsible for the amount of light entering the eye. It shrinks in brightly lit areas to stop the eye from being overwhelmed, and it enlarges in dimly lit areas to take in more light and information. 
+The areas of interest here are the *retina *and the *pupil*. The pupil is responsible for the amount of light entering the eye. It shrinks in brightly lit areas to stop the eye from being overwhelmed, and it enlarges in dimly lit areas to take in more light and information.
 
-The retina contains rods and cones which are the primary photoreceptor cells. The rods are located in the outer edges of the retina to allow more light to reach them, hence functioning better in low light areas. Rods only perceive the brightness of light, which is why it's sometimes difficult to differentiate between hues. 
+The retina contains rods and cones which are the primary photoreceptor cells. The rods are located in the outer edges of the retina to allow more light to reach them, hence functioning better in low light areas. Rods only perceive the brightness of light, which is why it's sometimes difficult to differentiate between hues.
 
-The cones are the photoreceptors that allow us to perceive colors. They’re concentrated near the Fovea (see the diagram above) and function well in bright areas. 
+The cones are the photoreceptors that allow us to perceive colors. They’re concentrated near the Fovea (see the diagram above) and function well in bright areas.
 
 Humans typically have 3 different kinds of cones - red, green and blue - and as such are called ‘Trichromats’. These different cones are what let us see colors. Any kind of color blindness is the result of a malfunctioning cone.
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1wF8NtT1ZbRWDZqSdfe3mLRBszAXsR3U7/preview?usp=drivesdk></iframe></div>
 
-There are 3 different kinds of color blindness. Abnormal green or red cones result in Deuteranopia and Protanopia, while an abnormal blue cone results in Tritanopia. Hence, people affected by color blindness are called dichromats, due to having 2 functioning cone cells. 
+There are 3 different kinds of color blindness. Abnormal green or red cones result in Deuteranopia and Protanopia, while an abnormal blue cone results in Tritanopia. Hence, people affected by color blindness are called dichromats, due to having 2 functioning cone cells.
 
 There are some rare mutations which may result in people having 4 cones. However, most of the time, the fourth cone is malfunctional or a duplicate of another cone, making true tetrachromacy much rarer. Functional tetrachromats would have a yellow cone alongside the red, green and blue ones. This extra cone allows tetrachromats to see many more colors compared to trichromats.
 
@@ -100,20 +100,20 @@ Stare at the crosses in the circles for about 1 minute and then afterwards, star
 
 <div><iframe src=https://drive.google.com/file/d/1lgPISDX-LfLHCOzVQLcvBwgOOLhExzRS/preview?usp=drivesdk></iframe></div>
 
-Staring at the yellow circle and then looking at the black square, you will end up seeing a blue color called Stygian Blue. 
+Staring at the yellow circle and then looking at the black square, you will end up seeing a blue color called Stygian Blue.
 **Stygian colors** are types of color that are __both impossibly dark and saturated__.
 
-If you stare at the green circle and then look at the white square, the resulting color will be a very bright red known as self-luminous red. 
+If you stare at the green circle and then look at the white square, the resulting color will be a very bright red known as self-luminous red.
 **Self-luminous colors** happen when you stare at one color, then look at something bright. This creates an after-image of the opposite color, which looks super bright, even brighter than white.
 
-If you stare at the cyan circle for long enough and then look at the orange square and the after-image it produces is a color known as hyperbolic orange. 
+If you stare at the cyan circle for long enough and then look at the orange square and the after-image it produces is a color known as hyperbolic orange.
 **Hyperbolic colors** are those that are __more saturated than the purest of those colors.__
 
 
 
 Changed the channel name: Color 5: Human Perception
 
-**Video: **https://youtu.be/P2r4Z5kbx7M?si=P8PvmVByUQ6W_Ocy&t=478
+**Video:** https://youtu.be/P2r4Z5kbx7M?si=P8PvmVByUQ6W_Ocy&t=478
 
 
 

@@ -21,7 +21,7 @@ The most important things in your decoration should stand out the most, while le
 Colour-wise, you should recall that value contrast is an important part of lighting as Light 3 discusses. Here, we’ll discuss how contrast relates to hue instead. Hue-wise, colors can contrast in both relative temperature and hue.
 ## Low Contrast
 
-Having low contrast in your colors can lower the overall energy in your decoration. This lower energy is neither positive nor negative. It depends on the usage. 
+Having low contrast in your colors can lower the overall energy in your decoration. This lower energy is neither positive nor negative. It depends on the usage.
 Analogous colors have the lowest contrast because they’re right next to each other on the color wheel.
 
 Here are some low contrast color schemes:
@@ -50,7 +50,7 @@ Let's split the color wheel into two halves, separating the colors from red to y
 
 On one half, you have the **Warm Colors** - _your reds, oranges, yellow-greens, and so on._
 
-On the other half, you have the **Cool Colors** - _which are your purples, blue greens, indigos, and other combinations._ 
+On the other half, you have the **Cool Colors** - _which are your purples, blue greens, indigos, and other combinations._
 
 While you can't physically measure a color's temperature, these are named as such because we associate these colors with objects found in nature, such as fire typically being red and orange, and ice being related to blue.
 
@@ -94,16 +94,16 @@ They're considered the easiest color schemes to work with as you don't have to t
 
 ## Complementary
 
-**Complementary** colors are __colors that are opposite to each other on the color wheel.__ Blue and orange is one good example. 
-Complementary colors are harder to use compared to analogous ones, as you need to balance the contrast so that it creates interest and isn't an eyesore. 
+**Complementary** colors are __colors that are opposite to each other on the color wheel.__ Blue and orange is one good example.
+Complementary colors are harder to use compared to analogous ones, as you need to balance the contrast so that it creates interest and isn't an eyesore.
 ## Split Complementary
 
-**Split Complementary** color schemes are the same as complementary colors, __except you split off one end and move to the 2 other colors on either side.__ This is considered a more “mature” version of the complementary color scheme. Two examples are yellow-orange and blue-purple. 
+**Split Complementary** color schemes are the same as complementary colors, __except you split off one end and move to the 2 other colors on either side.__ This is considered a more “mature” version of the complementary color scheme. Two examples are yellow-orange and blue-purple.
 
-These schemes are my personal favorite as you have the complementary color for contrast and creating interest, and you have extra colours to break up any eye strain. 
+These schemes are my personal favorite as you have the complementary color for contrast and creating interest, and you have extra colours to break up any eye strain.
 ## Triadic
 
-**Triadic** colors are __any 3 colors that are equidistant from each other in the color wheel. In other words, they have the same number of colors in between each of them.__ Drawing lines to connect them forms an equilateral triangle. An example of Triadic colors would be orange, purple, and green. 
+**Triadic** colors are __any 3 colors that are equidistant from each other in the color wheel. In other words, they have the same number of colors in between each of them.__ Drawing lines to connect them forms an equilateral triangle. An example of Triadic colors would be orange, purple, and green.
 
 Triadic colors, while still being decently contrasting, can normally be left at full value and saturation since they have another color that breaks up any eye strain. You normally see these colours in more positive settings due to them not overloading your eyes, while still being vibrant.
 
@@ -116,13 +116,13 @@ Tetradic colors are similar to triadic colors except the colors are a bit more c
 
 **Polychromatic** colors are simply put, __all the colors in the the color wheel.__
 
-This set of colors is quite difficult to work with since it can get messy very quickly. You need to choose the most important colors and balance them properly. 
+This set of colors is quite difficult to work with since it can get messy very quickly. You need to choose the most important colors and balance them properly.
 
 ## Colour Accents
 
 One thing you’ll notice about contrast is that in large amounts it can feel very overbearing. If you use complimentary colors like red and blue in equal amounts it can make your work feel like everything’s fighting for attention, which is never really a good sign.
 
-Color accents are a nice and easy way to give your work good contrast while not being overbearing. Accents are normally used in parts that otherwise have little hue contrast, but they can be used anywhere as long as they stand out enough. These work similarly to accents in hair where most of it is the base color, while a different color is added in a small portion for some contrast. 
+Color accents are a nice and easy way to give your work good contrast while not being overbearing. Accents are normally used in parts that otherwise have little hue contrast, but they can be used anywhere as long as they stand out enough. These work similarly to accents in hair where most of it is the base color, while a different color is added in a small portion for some contrast.
 
 A simple way to choose an accent is to take the complementary color, shown in this example by Nine which uses greens as a base, adding magenta afterward.
 
@@ -152,7 +152,7 @@ Here are 2 examples of Ori and the Will of the Wisps:
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1lFwp4Ny8duo_O3tEYCvoIO3h2mgPwB96/preview?usp=drivesdk></iframe></div>
 
-You can see that the shapes they make are quite clean with lots of hard edges and no arm-like projections sticking out, which is exactly what you want a gamut map to look like. 
+You can see that the shapes they make are quite clean with lots of hard edges and no arm-like projections sticking out, which is exactly what you want a gamut map to look like.
 
 Here is an example of Ghostrunner 2 where the gamut map goes across the color wheel from blue to red, making a neat line:
 
@@ -168,7 +168,7 @@ This is an example of what you don’t want your gamut maps to look like. There 
 
 Changed the channel name: Color 3: Color Schemes
 
-**Video: **https://youtu.be/P2r4Z5kbx7M?si=CkCcKoJSW36e0Ro_&t=404
+**Video:** https://youtu.be/P2r4Z5kbx7M?si=CkCcKoJSW36e0Ro_&t=404
 
 
 

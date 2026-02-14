@@ -19,35 +19,35 @@ draft: false
 
 There are many techniques you can use to make your object use more efficient.
 
-> • **Overlapping** objects is usually the easiest way to optimize. You simply delete objects which are fully covered by others. This works best on decoration that utilizes many layers.
+> **Overlapping** objects is usually the easiest way to optimize. You simply delete objects which are fully covered by others. This works best on decoration that utilizes many layers.
 
-> • **Scaling**  is another simple way to reduce object counts. By making one object take up more space, you can use far fewer objects to fill in a space. Note that this is much easier with scale hack.
+> **Scaling**  is another simple way to reduce object counts. By making one object take up more space, you can use far fewer objects to fill in a space. Note that this is much easier with scale hack.
 
-*Warning: GD renders large objects differently depending on their hitboxes. Be careful with this because it can cause visual errors.(
+*Warning: GD renders large objects differently depending on their hitboxes. Be careful with this because it can cause visual errors.*
 
-> • **Object Types** are the strongest way to efficiently optimize, although using them requires experience. Essentially, some objects can be sufficient to maintain similar quality with far lower object counts. These objects will depend on what you’re trying to do with the objects.
-> 
+> **Object Types** are the strongest way to efficiently optimize, although using them requires experience. Essentially, some objects can be sufficient to maintain similar quality with far lower object counts. These objects will depend on what you’re trying to do with the objects.
+>
 > For example, you can get away with using the wood objects in the 1st and 9th tabs instead making your own custom wood. In general, be aware that custom assets will always be more inefficient than using default objects, which include things like custom curves.
 
 **2: Reducing Objects**
 
 This is an algorithm which lets you reduce object counts without affecting the overall look of the deco. If applied properly, you can use half or even one-third of the prior objects, without impacting the visuals much at all.
 
-> •**1.** Make two copies of the deco you want to optimize. Unlink all of the objects if necessary.
+> **1.** Make two copies of the deco you want to optimize. Unlink all of the objects if necessary.
 
-> • **2.**Using the “All” layer, remove all objects that don’t show up above others.
+> **2.** Using the “All” layer, remove all objects that don’t show up above others.
 
-> • **3.**Disable Preview Mode and go through each layer. Use scaling and object types to reduce object counts for filled-in shapes.
+> **3.** Disable Preview Mode and go through each layer. Use scaling and object types to reduce object counts for filled-in shapes.
 
 Note that this works significantly better if you use a lot of Editor layers. This will help you stay organized and makes the layering task less tedious
 
 Here is an example of this process. This video shows all of the efficiency techniques, as well as the object reduction algorithm.
 
-https://youtu.be/NMwzuKoi3Nk
+{{< youtube NMwzuKoi3Nk >}}
 
 
 
- **Research **and **Examples**
+ **Research** and **Examples**
 
   @koma5
 

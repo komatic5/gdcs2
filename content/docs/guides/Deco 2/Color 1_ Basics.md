@@ -95,7 +95,7 @@ The final gradient would look like this, with the brighter areas being directly 
 
 Changed the channel name: Color 1: Basics
 
-**Video: **https://www.youtube.com/watch?v=P2r4Z5kbx7M
+**Video:** https://www.youtube.com/watch?v=P2r4Z5kbx7M
 
 
 

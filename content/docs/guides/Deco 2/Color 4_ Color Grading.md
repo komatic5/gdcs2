@@ -126,12 +126,12 @@ While this trigger focuses more on color correction, it is still effective as it
 
 
 
-## Sources 
+## Sources
 - [Adobe: What is color grading and how do I use it?](<https://www.adobe.com/creativecloud/photography/hub/guides/what-is-color-grading-in-photography.html>)
 - [Film Supply: Understanding the Basics of Cinematic Color Grading](<https://www.filmsupply.com/articles/cinematic-color-grading/>)
 - [London Image Institute: Color Psychology: How Do Colors Affect Mood & Emotions?](<https://londonimageinstitute.com/how-to-empower-yourself-with-color-psychology/>)
 
-**Video: **https://youtu.be/P2r4Z5kbx7M?si=do9Of4Aj0y9cZkz1&t=1116
+**Video:** https://youtu.be/P2r4Z5kbx7M?si=do9Of4Aj0y9cZkz1&t=1116
 
 
 

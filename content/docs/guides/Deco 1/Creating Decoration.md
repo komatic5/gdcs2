@@ -78,7 +78,7 @@ Your decoration may be so complex that keeping everything on one editor layer wi
 ## Editor Layers
 
 As you may recall, Editor layers organize how you select objects. You have lots of freedom with how you organize objects using these, but here are my recommendations.
-    
+
 Use one editor layer for each type of major shape or detail. For example, you may put your main structure shape on Layer 1, then add some segments inside it on Layer 2, and then some further details on Layers 3-5. Complex deco may require more layers, so feel free to use as many as necessary.
 
 As you get more comfortable with layers, you may want to document which editor layers you use, and use editor Layer 2 to group layers together. This can help with organization since you can see entire segments of decoration (such as the blocks) without everything else getting in the way too.
@@ -166,7 +166,7 @@ The level of **cohesion** in your work is __how much each deco element works wit
 
 
 
-**Video: **https://youtu.be/3ofZI82lKQ8?si=a5bXL1ilq24c9C_N
+**Video:** https://youtu.be/3ofZI82lKQ8?si=a5bXL1ilq24c9C_N
 
 
 

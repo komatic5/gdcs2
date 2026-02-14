@@ -115,7 +115,7 @@ An example in GD is Magdalene by Lyriaki. This part uses light blue accents to c
 
 Changed the channel name: Color 2: Using Colors
 
-**Video: **https://youtu.be/P2r4Z5kbx7M?si=HBKD1NF62wq1inJI&t=875
+**Video:** https://youtu.be/P2r4Z5kbx7M?si=HBKD1NF62wq1inJI&t=875
 
 
 

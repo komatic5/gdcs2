@@ -25,7 +25,7 @@ In the example given above, it would be 2+1 = 3 times. Together these two number
 # 2: MinInt & Changing Sequence Ends
 
 - **MinInt:** The minimum interval that has to pass before you can spawn the next step in the sequence.
-- **Mode Stop:**When the trigger reaches the last step in the sequence it will not activate the first step in the sequence again.
+- **Mode Stop:** When the trigger reaches the last step in the sequence it will not activate the first step in the sequence again.
 - **Mode Loop:** When the trigger reaches the last step it will loop back to the first step in the sequence and spawn that to the last one again. This creates - as the name suggests - an infinite loop.
 - **Mode Last:** Will spawn every step like normal but once it reaches the last step in the sequence it will only spawn that step from now on every time you trigger the sequence trigger.
 

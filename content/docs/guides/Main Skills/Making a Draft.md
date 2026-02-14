@@ -51,7 +51,7 @@ Failure is one of the most important parts of creating, and it's crucial to hand
 It's a good idea to get used to failure - after all, it happens a lot as a creator. But when you fail, try to *fail fast* so you don't waste too much time. This helps you try new ideas faster and saves a lot of time working on your levels.
 
 ## Using Placeholders
-Due to the prototypical nature of MVPs, you should *focus more on making things quickly rather than making them look good*, which is why **placeholders **are used. Feel free to take assets from other levels, or copy how they do things just to get a grasp of how your level will work. **As long as you replace these assets with your own original work in your final level, it’s not necessarily stealing.**
+Due to the prototypical nature of MVPs, you should *focus more on making things quickly rather than making them look good*, which is why **placeholders** are used. Feel free to take assets from other levels, or copy how they do things just to get a grasp of how your level will work. **As long as you replace these assets with your own original work in your final level, it’s not necessarily stealing.**
 
 In fact, you don’t need to put much thought into your placeholders at all. For example, the animatronics from Five Nights at Freddy’s have their current names because Scott Cawthon, the developer, became attached to the placeholder names he used for them.
 

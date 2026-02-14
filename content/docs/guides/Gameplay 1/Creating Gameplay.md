@@ -71,8 +71,8 @@ I also sometimes use a teleportal to teleport the player off the ground, but I w
 > **Base Gameplay**
 So now we really start to get into the meat and potatoes of layout creation.
 
-Gamemode decisions are really important here, *since this part of the song features very short, sort of retro sounds, these are most suitable to represent with small, spontaneous jumps*. I find the most fitting gamemode for this would be a mini-cube, although a mini-ufo would also work, I find that this is most suited to **grounded** gameplay, meaning __gameplay that takes place on the actual ground of the level as opposed to just floating blocks__. 
- 
+Gamemode decisions are really important here, *since this part of the song features very short, sort of retro sounds, these are most suitable to represent with small, spontaneous jumps*. I find the most fitting gamemode for this would be a mini-cube, although a mini-ufo would also work, I find that this is most suited to **grounded** gameplay, meaning __gameplay that takes place on the actual ground of the level as opposed to just floating blocks__.
+
 Also, try to incorporate **gameplay motifs**, __which are gameplay elements that repeat with the repetition of the song__. Although, don’t mistake this with lazily copy-pasting gameplay elements, still have some variation between repetition of aspects, this gives the layout a more consistent feel, while the slight variations keep it from feeling lazy.
 
 Another thing to think about is how every movement leads into the next. If you want to sync a particular set of notes with a staircase, you need to properly set up the jumps before in order to be able to have enough vertical space for that. If you want to have a gamemode change, then you should set up the movements before that to cleanly and consistently enter the portal, otherwise it could lead to inconsistent and awkward gameplay.
@@ -103,7 +103,7 @@ Most, if not all of these aspects apply to the entire layout, not just the predr
 
 ## Structuring and Effects (Optional)
 
-These are less important than base gameplay, and while base gameplay should be the focus, good structuring and effects are a good way to put a nice cherry on top for your layout, as long as you don’t overdo them. For more information, see the [Making Structures](<https://discord.com/channels/414295025883545600/1086726633710440518>) and [Making Effects](<https://discord.com/channels/414295025883545600/1282861235645321276>) guides. 
+These are less important than base gameplay, and while base gameplay should be the focus, good structuring and effects are a good way to put a nice cherry on top for your layout, as long as you don’t overdo them. For more information, see the [Making Structures](<https://discord.com/channels/414295025883545600/1086726633710440518>) and [Making Effects](<https://discord.com/channels/414295025883545600/1282861235645321276>) guides.
 
 I also like to add some movements to my structures to give my layouts a little extra life.
 
@@ -133,7 +133,7 @@ With that said, have fun, and happy layouting!
 
 
 
-**Video: **https://youtu.be/Se2KWB1XgfE?si=tkpneccEJD-VfMcv
+**Video:** https://youtu.be/Se2KWB1XgfE?si=tkpneccEJD-VfMcv
 
 
 

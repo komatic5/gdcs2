@@ -21,7 +21,7 @@ Use the **Zoom** trigger to __simply zoom the camera in and out__:
 None
 
 The trigger has sliders for adjusting the zoom value and the time. It also has various easings just like the Move, Rotate and Scale triggers.
-Just like most other triggers, it's also able to be Touch and Spawn-triggered. 
+Just like most other triggers, it's also able to be Touch and Spawn-triggered.
 
 This is how it looks fully zoomed in:
 
@@ -43,9 +43,9 @@ None
 
 **Target Pos Group ID** is for the object the camera will lock to. *You can only have one object as the center.*
 
- **X Only** makes the trigger ignore the Y-axis when moving the camera. **Y Only** does the opposite; ignoring the X-axis. 
+ **X Only** makes the trigger ignore the Y-axis when moving the camera. **Y Only** does the opposite; ignoring the X-axis.
 
-If the center moves via a Move or Rotate trigger, the **Follow** option makes the camera move along with the center. The **Follow Easing** slider modifies the easing rate. 
+If the center moves via a Move or Rotate trigger, the **Follow** option makes the camera move along with the center. The **Follow Easing** slider modifies the easing rate.
 
 As the name implies, **Exit Static** disables the trigger and reverts the camera to its previous state. Ticking **Exit Instant** does it in an instant rather than easing to the previous state.
 
@@ -63,7 +63,7 @@ The **Offset** trigger __shifts the camera by a certain distance in the X and Y 
 
 None
 
-**Offset X** shifts the camera left and right, while **Offset Y** shifts the camera up and down. 
+**Offset X** shifts the camera left and right, while **Offset Y** shifts the camera up and down.
 Enabling **X Only** will make the trigger ignore the Y axis on activation, while enabling **Y Only** ignores the X axis. The Easings work like usual.
 
 Here's how offset X(-50) looks in game:
@@ -88,7 +88,7 @@ Meanwhile, the **GP Offset** trigger __shifts the player’s position relative t
 
 None
 
-**X Only** and **Y Only** works exactly like the Offset trigger, where they ignore each other’s axes. Ticking **Don’t Zoom** didn’t seem to do anything even when combined with the zoom trigger. Either it lacks a function, or it will be expanded in a later update such as 2.206. 
+**X Only** and **Y Only** works exactly like the Offset trigger, where they ignore each other’s axes. Ticking **Don’t Zoom** didn’t seem to do anything even when combined with the zoom trigger. Either it lacks a function, or it will be expanded in a later update such as 2.206.
 
 Pressing the **Default** button restores the original position between the player and the camera, which is typically a bit to the left.
 
@@ -122,9 +122,9 @@ The **Edge** trigger __fixes the camera's edge to a certain group.__
 
 None
 
-The checkboxes **Left, Right, Up** and **Down** determine the edge the camera will be fixed to. 
-Unlike the other camera triggers, you can't use a certain easing or modify the move time. 
-**Unlock** resets the camera to its normal state. 
+The checkboxes **Left, Right, Up** and **Down** determine the edge the camera will be fixed to.
+Unlike the other camera triggers, you can't use a certain easing or modify the move time.
+**Unlock** resets the camera to its normal state.
 
 Here's a video demonstrating the Edge trigger:
 
@@ -152,7 +152,7 @@ The trigger provides a guideline for these ratios when placed.
 
 None
 
-You can tweak the sliders in order to reflect the previous camera's state if you used the Zoom :ZoomTrigger: or Offset trigger :OffsetTrigger:. 
+You can tweak the sliders in order to reflect the previous camera's state if you used the Zoom :ZoomTrigger: or Offset trigger :OffsetTrigger:.
 
 Here's a video demonstrating how a Guide trigger can be used:
 
@@ -178,7 +178,7 @@ None
 
 
 
-**Video: **https://youtu.be/Ib63PvOkxUY?si=e-_wO79iRmVJrAfp
+**Video:** https://youtu.be/Ib63PvOkxUY?si=e-_wO79iRmVJrAfp
 
 
 

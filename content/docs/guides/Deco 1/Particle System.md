@@ -19,9 +19,9 @@ draft: false
 
 These options let you control how particles spawn; how many will spawn, how often they’ll spawn, and long they’ll last.
 
-- **Max particles:**The maximum particles outputted by a singular instance.
+- **Max particles:** The maximum particles outputted by a singular instance.
 - **Duration:** The interval in which the particles will spawn. For example, a duration of 0.5 means that for every lifetime, particles will spawn for 0.5 seconds (-1 for constant).
-- **Lifetime:**How long the particles last.
+- **Lifetime:** How long the particles last.
 - **Emission:** Amount of particles spawned per duration.
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1khB5voYqdJK-Hu8q3XZmxJ5aAOzXEkG7/preview?usp=drivesdk></iframe></div>
@@ -29,8 +29,7 @@ These options let you control how particles spawn; how many will spawn, how ofte
 ## Particle Movement
 These options let you control where particles spawn and how they move.
 
-- **Angle:** Angle value for the particles.
- - 0° is straight to the right, while -90° is straight up.
+- **Angle:** Angle value for the particles. 0° is straight to the right, while -90° is straight up.
 - **Speed:** Starting speed value for the particles. This is measured in small arrow units, so inputting 15 will render 1 block per second.
 - **PostVar X and Y:** Parameters for where the particles spawn. This is also measured in small arrow units, so 15 = 1 block. Use this to define the particle concentration.
 - **Gravity X and Y:** Determine how the particles accelerate linearly.
@@ -60,10 +59,9 @@ These options determine how the particle object will respond to being moved in-g
 Free, Relative, and Grouped determine how the particles generate when the particle object is moved:
 - **Free:** Group particles relative to camera position.
 - **Relative:** Allow particles to move on their own, regardless of camera position.
-- **Grouped:**Make particles move together.
+- **Grouped:** Make particles move together.
 You can see this by clicking and dragging the particle object in the bottom left window.
-
-- **Fade In and Fade Out:**Impacts opacity; works like the pulse trigger
+- **Fade In and Fade Out:** Impacts opacity; works like the pulse trigger
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/167TuRksn5TiiXi4BYuKI8TX11IobX3TN/preview?usp=drivesdk></iframe></div>
 
@@ -88,7 +86,7 @@ These options control some of each particle’s visuals; their color, size, spin
 - **Use obj color:** Makes the particles use the color channels assigned in Edit Object.
 - **Uniform obj color:** Makes the particles all have the same color no matter what (no variation).
  - This setting ignores blending, so use the “Enable Additive” function to make the particles have blending.
-- **Dynamic rotation:**Makes the particles dynamically change their rotation depending on how they’re rotated.
+- **Dynamic rotation:** Makes the particles dynamically change their rotation depending on how they’re rotated.
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/17FIIPTFmkd8FhxM5FSZonvn7Nv0YbpqP/preview?usp=drivesdk></iframe></div>
 
@@ -98,7 +96,7 @@ These options let you control how particles interact with other aspects of your 
 - **Animate on Trigger:** Allows you to control when the particles activate using an Animate trigger. This is explained further in the Animate Trigger guide.
 - **Quick Start:** Removes a “start animation” when first loading into the level.
 - **Order Sensitive:** Allows particles to respond to Z order.
- - Otherwise they will ignore Z order and display below the Z layer they’re on, similar to portals. 
+ - Otherwise they will ignore Z order and display below the Z layer they’re on, similar to portals.
  - This only works if blending is disabled in the particle menu, as well as the color you chose in the color picker when using “use obj color”.
 - **StartRGB/EndRGB var sync:** If you use the random sliders in the visual tab to select a color enabling this will make the particles either start or end with a grayscale effect.
 
@@ -133,7 +131,7 @@ The **C** button doesn't have a purpose at the time of writing. Alternatively, t
 
 ## Return To The [Table of Contents](https://discord.com/channels/414295025883545600/1086732378711535737/1086732378711535737) Here
 
-**Video: **https://youtu.be/-744rW8WKmA?si=vBVz6hIJr860AnKz
+**Video:** https://youtu.be/-744rW8WKmA?si=vBVz6hIJr860AnKz
 
 
 

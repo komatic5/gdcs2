@@ -16,7 +16,7 @@ draft: false
 
 As a new decorator, you might wonder how to choose objects. Should you look at an object’s texture? Its size? Color? While those are good to consider, they’re largely unimportant.
 
-> The most important aspect of any object is its **shape**. 
+> The most important aspect of any object is its **shape**.
 
 If you can get a shape to look accurate, you can make an object people recognize. If you mess up an object’s shape, nobody will know what it is.
 
@@ -173,7 +173,7 @@ Finally, note that you can use low opacity copies of objects to create blurred s
 
 ## Return To The [Table of Contents](https://discord.com/channels/414295025883545600/1233650406089949254/1233650406089949254) here
 
-**Video: **https://youtu.be/3ofZI82lKQ8?si=a5bXL1ilq24c9C_N
+**Video:** https://youtu.be/3ofZI82lKQ8?si=a5bXL1ilq24c9C_N
 
 
 

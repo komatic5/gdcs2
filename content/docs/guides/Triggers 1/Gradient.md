@@ -16,7 +16,7 @@ draft: false
 ** **
 # 1: Basic Mode
 
-The Gradient trigger has two major settings: Edit Object and Special Edit. 
+The Gradient trigger has two major settings: Edit Object and Special Edit.
 
 The U (up), D (down), L (left), and R (right) boxes are used to limit where the gradient will be applied. The effect is applied on group centers, although this feature is made redundant by Vertex mode.
 
@@ -24,7 +24,7 @@ ID is for the ID of the gradient effect. There cannot be two gradient effects wi
 
 Blending changes the way the gradient blends. *There are 4 blending modes: Normal, Additive, Multiply and Invert.*
 
-You can change which layer the gradient is rendered - the gradient is always rendered above everything in the chosen layer. 
+You can change which layer the gradient is rendered - the gradient is always rendered above everything in the chosen layer.
 'Disable' disables the gradient effect. You can rotate the gradient effect by rotating the trigger; this works with a rotate trigger too.
 
 To change the gradient color, you have to change the color of the color channels that the gradient trigger uses. HSV and pulse don't work on gradient triggers.
@@ -33,7 +33,7 @@ To change the gradient color, you have to change the color of the color channels
 
 # 2: Vertex Mode
 
-Vertex mode allows you to draw a mesh between 4 points in the editor. *Enabling it will change the U, D, L and R parameters to BL (bottom left), BR (bottom right), TL (top left) and, and TR (top right).* 
+Vertex mode allows you to draw a mesh between 4 points in the editor. *Enabling it will change the U, D, L and R parameters to BL (bottom left), BR (bottom right), TL (top left) and, and TR (top right).*
 
 These parameters use one-object groups, just like the center group on a Rotate trigger. This allows you to make 2D meshes, as moving the points changes the gradient's shape. If you want to make a triangle instead of a square, you can use the same group for two parameters, like TL and TR.
 
@@ -50,7 +50,7 @@ The curves here are created by using the Area Move trigger to smoothly move the 
 
 ## Return to the [Table of Contents](https://discord.com/channels/414295025883545600/1194067331836551278/1194067331836551278) Here
 
-**Video: **https://youtu.be/jhP4Tt_OpA0?si=VUeBGlPy1806EiqA
+**Video:** https://youtu.be/jhP4Tt_OpA0?si=VUeBGlPy1806EiqA
 
 
 
