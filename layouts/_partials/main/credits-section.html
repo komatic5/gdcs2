@@ -1,25 +1,55 @@
 {{ $page := .Page }}
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user-edit " width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"
-      style="vertical-align: -0.3rem; margin-bottom: 0.0rem;">
-      <path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0"></path>
-      <path d="M6 21v-2a4 4 0 0 1 4 -4h3.5"></path>
-      <path d="M18.42 15.61a2.1 2.1 0 0 1 2.97 2.97l-3.39 3.42h-3v-3l3.42 -3.39z"></path>
-    </svg>
-{{ with $page.Params.contributors }}
-  By
-  {{- $contributors := partial "sort-contributor-strings.html" (dict "contributors" . "context" $) -}}
 
-  {{- range $index, $contributor := $contributors -}}
-    {{- if gt $index 0 -}}
-      {{- if eq $index (sub (len $contributors) 1) }} and {{ else }}, {{ end -}}
-    {{- end }}
+{{/* Writers */}}
+{{ with $page.Params.authors }}
+  <div class="credits-line">
+    {{ $writerIcon := resources.Get "images/GDEmotes/Badges/writer.png" }}
+    <img src="{{ $writerIcon.RelPermalink }}" class="smallemote hover-scale" title="Main Writers">
 
-    <a href='/contributors/{{- $contributor.username | lower -}}' target='_blank' rel='noopener'>{{- $contributor.preferredName -}}</a>
+    Written by
 
-    {{- if in $page.Params.authors $contributor.username -}}
-      {{- $writerIcon := resources.Get "images/GDEmotes/Badges/writer.png" -}}
-      <img src="{{ $writerIcon.RelPermalink }}" class="smallemote hover-scale" title="Main Writer">
+    {{- $authors := partial "sort-contributor-strings.html" (dict "contributors" . "context" $) -}}
+
+    {{- range $index, $author := $authors -}}
+      {{- if gt $index 0 -}}
+        {{- if eq $index (sub (len $authors) 1) }} and {{ else }}, {{ end -}}
+      {{- end }}
+
+      <a href="/contributors/{{ $author.username | lower }}" target="_blank" rel="noopener">
+        {{- $author.preferredName -}}
+      </a>
     {{- end -}}
+  </div>
+{{- end -}}
 
-  {{- end -}}
+{{/* Contributors, excluding authors */}}
+{{ with $page.Params.contributors }}
+  {{ $contributors := partial "sort-contributor-strings.html" (dict "contributors" . "context" $) }}
+
+  {{ $nonAuthors := slice }}
+
+  {{ range $contributors }}
+    {{ if not (in $page.Params.authors .username) }}
+      {{ $nonAuthors = $nonAuthors | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{ if gt (len $nonAuthors) 0 }}
+    <div class="credits-line">
+      {{ $contributorIcon := resources.Get "images/GDEmotes/Buttons/+2.png" }}
+      <img src="{{ $contributorIcon.RelPermalink }}" class="smallemote hover-scale" title="Contributors">
+
+      Contributions by
+
+      {{- range $index, $contributor := $nonAuthors -}}
+        {{- if gt $index 0 -}}
+          {{- if eq $index (sub (len $nonAuthors) 1) }} and {{ else }}, {{ end -}}
+        {{- end }}
+
+        <a href="/contributors/{{ $contributor.username | lower }}" target="_blank" rel="noopener">
+          {{- $contributor.preferredName -}}
+        </a>
+      {{- end -}}
+    </div>
+  {{ end }}
 {{ end }}
